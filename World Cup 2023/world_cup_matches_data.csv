@@ -1,0 +1,455 @@
+Match,Team 1,Team 2,Winner,Margin,Ground,Match Date,Match id
+England vs India,England,India,England,202 runs,Lord's,"Jun 7, 1975",ODI # 19
+East Africa vs New Zealand,East Africa,New Zealand,New Zealand,181 runs,Birmingham,"Jun 7, 1975",ODI # 20
+Australia vs Pakistan,Australia,Pakistan,Australia,73 runs,Leeds,"Jun 7, 1975",ODI # 21
+Sri Lanka vs West Indies,Sri Lanka,West Indies,West Indies,9 wickets,Manchester,"Jun 7, 1975",ODI # 22
+England vs New Zealand,England,New Zealand,England,80 runs,Nottingham,"Jun 11, 1975",ODI # 23
+East Africa vs India,East Africa,India,India,10 wickets,Leeds,"Jun 11, 1975",ODI # 24
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,52 runs,The Oval,"Jun 11, 1975",ODI # 25
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,1 wicket,Birmingham,"Jun 11, 1975",ODI # 26
+England vs East Africa,England,East Africa,England,196 runs,Birmingham,"Jun 14, 1975",ODI # 27
+India vs New Zealand,India,New Zealand,New Zealand,4 wickets,Manchester,"Jun 14, 1975",ODI # 28
+Australia vs West Indies,Australia,West Indies,West Indies,7 wickets,The Oval,"Jun 14, 1975",ODI # 29
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,192 runs,Nottingham,"Jun 14, 1975",ODI # 30
+England vs Australia,England,Australia,Australia,4 wickets,Leeds,"Jun 18, 1975",ODI # 31
+New Zealand vs West Indies,New Zealand,West Indies,West Indies,5 wickets,The Oval,"Jun 18, 1975",ODI # 32
+Australia vs West Indies,Australia,West Indies,West Indies,17 runs,Lord's,"Jun 21, 1975",ODI # 33
+India vs West Indies,India,West Indies,West Indies,9 wickets,Birmingham,"Jun 9, 1979",ODI # 61
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,9 wickets,Nottingham,"Jun 9, 1979",ODI # 62
+England vs Australia,England,Australia,England,6 wickets,Lord's,"Jun 9, 1979",ODI # 63
+Canada vs Pakistan,Canada,Pakistan,Pakistan,8 wickets,Leeds,"Jun 9, 1979",ODI # 64
+Sri Lanka vs West Indies,Sri Lanka,West Indies,abandoned,,The Oval,"Jun 13-15, 1979",ODI # 64a
+India vs New Zealand,India,New Zealand,New Zealand,8 wickets,Leeds,"Jun 13, 1979",ODI # 65
+Australia vs Pakistan,Australia,Pakistan,Pakistan,89 runs,Nottingham,"Jun 13-14, 1979",ODI # 66
+England vs Canada,England,Canada,England,8 wickets,Manchester,"Jun 13-14, 1979",ODI # 67
+India vs Sri Lanka,India,Sri Lanka,Sri Lanka,47 runs,Manchester,"Jun 16-18, 1979",ODI # 68
+New Zealand vs West Indies,New Zealand,West Indies,West Indies,32 runs,Nottingham,"Jun 16, 1979",ODI # 69
+Australia vs Canada,Australia,Canada,Australia,7 wickets,Birmingham,"Jun 16, 1979",ODI # 70
+England vs Pakistan,England,Pakistan,England,14 runs,Leeds,"Jun 16, 1979",ODI # 71
+England vs New Zealand,England,New Zealand,England,9 runs,Manchester,"Jun 20, 1979",ODI # 72
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,43 runs,The Oval,"Jun 20, 1979",ODI # 73
+England vs West Indies,England,West Indies,West Indies,92 runs,Lord's,"Jun 23, 1979",ODI # 74
+England vs New Zealand,England,New Zealand,England,106 runs,The Oval,"Jun 9, 1983",ODI # 197
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,50 runs,Swansea,"Jun 9, 1983",ODI # 198
+Australia vs Zimbabwe,Australia,Zimbabwe,Zimbabwe,13 runs,Nottingham,"Jun 9, 1983",ODI # 199
+India vs West Indies,India,West Indies,India,34 runs,Manchester,"Jun 9-10, 1983",ODI # 200
+England vs Sri Lanka,England,Sri Lanka,England,47 runs,Taunton,"Jun 11, 1983",ODI # 201
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,52 runs,Birmingham,"Jun 11-12, 1983",ODI # 202
+Australia vs West Indies,Australia,West Indies,West Indies,101 runs,Leeds,"Jun 11-12, 1983",ODI # 203
+India vs Zimbabwe,India,Zimbabwe,India,5 wickets,Leicester,"Jun 11, 1983",ODI # 204
+England vs Pakistan,England,Pakistan,England,8 wickets,Lord's,"Jun 13, 1983",ODI # 205
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,5 wickets,Bristol,"Jun 13, 1983",ODI # 206
+Australia vs India,Australia,India,Australia,162 runs,Nottingham,"Jun 13, 1983",ODI # 207
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,8 wickets,Worcester,"Jun 13, 1983",ODI # 208
+England vs New Zealand,England,New Zealand,New Zealand,2 wickets,Birmingham,"Jun 15, 1983",ODI # 209
+India vs West Indies,India,West Indies,West Indies,66 runs,The Oval,"Jun 15, 1983",ODI # 210
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,11 runs,Leeds,"Jun 16, 1983",ODI # 211
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,32 runs,Southampton,"Jun 16, 1983",ODI # 212
+England vs Pakistan,England,Pakistan,England,7 wickets,Manchester,"Jun 18, 1983",ODI # 213
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,Sri Lanka,3 wickets,Derby,"Jun 18, 1983",ODI # 214
+Australia vs West Indies,Australia,West Indies,West Indies,7 wickets,Lord's,"Jun 18, 1983",ODI # 215
+India vs Zimbabwe,India,Zimbabwe,India,31 runs,Tunbridge Wells,"Jun 18, 1983",ODI # 216
+England vs Sri Lanka,England,Sri Lanka,England,9 wickets,Leeds,"Jun 20, 1983",ODI # 217
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,11 runs,Nottingham,"Jun 20, 1983",ODI # 218
+Australia vs India,Australia,India,India,118 runs,Chelmsford,"Jun 20, 1983",ODI # 219
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,10 wickets,Birmingham,"Jun 20, 1983",ODI # 220
+England vs India,England,India,India,6 wickets,Manchester,"Jun 22, 1983",ODI # 221
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,8 wickets,The Oval,"Jun 22, 1983",ODI # 222
+India vs West Indies,India,West Indies,India,43 runs,Lord's,"Jun 25, 1983",ODI # 223
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,15 runs,Hyderabad (Sind),"Oct 8, 1987",ODI # 451
+India vs Australia,India,Australia,Australia,1 run,Chennai,"Oct 9, 1987",ODI # 453
+England vs West Indies,England,West Indies,England,2 wickets,Gujranwala,"Oct 9, 1987",ODI # 452
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,3 runs,Hyderabad (Deccan),"Oct 10, 1987",ODI # 454
+Pakistan vs England,Pakistan,England,Pakistan,18 runs,Rawalpindi,"Oct 12-13, 1987",ODI # 455
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,96 runs,Chennai,"Oct 13, 1987",ODI # 456
+Sri Lanka vs West Indies,Sri Lanka,West Indies,West Indies,191 runs,Karachi,"Oct 13, 1987",ODI # 457
+India vs New Zealand,India,New Zealand,India,16 runs,Bengaluru,"Oct 14, 1987",ODI # 458
+Pakistan vs West Indies,Pakistan,West Indies,Pakistan,1 wicket,Lahore,"Oct 16, 1987",ODI # 459
+India vs Zimbabwe,India,Zimbabwe,India,8 wickets,Wankhede,"Oct 17, 1987",ODI # 461
+England vs Sri Lanka,England,Sri Lanka,England,108 runs,Peshawar,"Oct 17, 1987",ODI # 460
+Australia vs New Zealand,Australia,New Zealand,Australia,3 runs,Indore,"Oct 18-19, 1987",ODI # 462
+Pakistan vs England,Pakistan,England,Pakistan,7 wickets,Karachi,"Oct 20, 1987",ODI # 463
+Sri Lanka vs West Indies,Sri Lanka,West Indies,West Indies,25 runs,Kanpur,"Oct 21, 1987",ODI # 464
+India vs Australia,India,Australia,India,56 runs,Delhi,"Oct 22, 1987",ODI # 465
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,4 wickets,Eden Gardens,"Oct 23, 1987",ODI # 466
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,113 runs,Faisalabad,"Oct 25, 1987",ODI # 467
+England vs West Indies,England,West Indies,England,34 runs,Jaipur,"Oct 26, 1987",ODI # 468
+India vs Zimbabwe,India,Zimbabwe,India,7 wickets,Ahmedabad,"Oct 26, 1987",ODI # 469
+Australia vs New Zealand,Australia,New Zealand,Australia,17 runs,Chandigarh,"Oct 27, 1987",ODI # 470
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,70 runs,Cuttack,"Oct 30, 1987",ODI # 471
+England vs Sri Lanka,England,Sri Lanka,England,8 wickets,Pune,"Oct 30, 1987",ODI # 472
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,28 runs,Karachi,"Oct 30, 1987",ODI # 473
+India vs New Zealand,India,New Zealand,India,9 wickets,Nagpur,"Oct 31, 1987",ODI # 474
+Pakistan vs Australia,Pakistan,Australia,Australia,18 runs,Lahore,"Nov 4, 1987",ODI # 475
+India vs England,India,England,England,35 runs,Wankhede,"Nov 5, 1987",ODI # 476
+Australia vs England,Australia,England,Australia,7 runs,Eden Gardens,"Nov 8, 1987",ODI # 477
+New Zealand vs Australia,New Zealand,Australia,New Zealand,37 runs,Auckland,"Feb 22, 1992",ODI # 714
+England vs India,England,India,England,9 runs,Perth,"Feb 22, 1992",ODI # 715
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,3 wickets,New Plymouth,"Feb 23, 1992",ODI # 716
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,10 wickets,Melbourne,"Feb 23, 1992",ODI # 717
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,6 wickets,Hamilton,"Feb 25, 1992",ODI # 718
+Australia vs South Africa,Australia,South Africa,South Africa,9 wickets,Sydney,"Feb 26, 1992",ODI # 719
+Pakistan vs Zimbabwe,Pakistan,Zimbabwe,Pakistan,53 runs,Hobart,"Feb 27, 1992",ODI # 720
+England vs West Indies,England,West Indies,England,6 wickets,Melbourne,"Feb 27, 1992",ODI # 721
+India vs Sri Lanka,India,Sri Lanka,no result,,Mackay,"Feb 28, 1992",ODI # 722
+New Zealand vs South Africa,New Zealand,South Africa,New Zealand,7 wickets,Auckland,"Feb 29, 1992",ODI # 723
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,75 runs,Brisbane,"Feb 29, 1992",ODI # 724
+Australia vs India,Australia,India,Australia,1 run,Brisbane,"Mar 1, 1992",ODI # 725
+England vs Pakistan,England,Pakistan,no result,,Adelaide,"Mar 1, 1992",ODI # 726
+South Africa vs Sri Lanka,South Africa,Sri Lanka,Sri Lanka,3 wickets,Wellington,"Mar 2, 1992",ODI # 727
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,48 runs,Napier,"Mar 3, 1992",ODI # 728
+India vs Pakistan,India,Pakistan,India,43 runs,Sydney,"Mar 4, 1992",ODI # 729
+South Africa vs West Indies,South Africa,West Indies,South Africa,64 runs,Christchurch,"Mar 5, 1992",ODI # 730
+Australia vs England,Australia,England,England,8 wickets,Sydney,"Mar 5, 1992",ODI # 731
+India vs Zimbabwe,India,Zimbabwe,India,55 runs,Hamilton,"Mar 7, 1992",ODI # 732
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,7 wickets,Adelaide,"Mar 7, 1992",ODI # 733
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,5 wickets,Auckland,"Mar 8, 1992",ODI # 734
+Pakistan vs South Africa,Pakistan,South Africa,South Africa,20 runs,Brisbane,"Mar 8, 1992",ODI # 735
+England vs Sri Lanka,England,Sri Lanka,England,106 runs,Ballarat,"Mar 9, 1992",ODI # 736
+India vs West Indies,India,West Indies,West Indies,5 wickets,Wellington,"Mar 10, 1992",ODI # 737
+South Africa vs Zimbabwe,South Africa,Zimbabwe,South Africa,7 wickets,Canberra,"Mar 10, 1992",ODI # 738
+Australia vs Pakistan,Australia,Pakistan,Pakistan,48 runs,Perth,"Mar 11, 1992",ODI # 739
+New Zealand vs India,New Zealand,India,New Zealand,4 wickets,Dunedin,"Mar 12, 1992",ODI # 740
+England vs South Africa,England,South Africa,England,3 wickets,Melbourne,"Mar 12, 1992",ODI # 741
+Sri Lanka vs West Indies,Sri Lanka,West Indies,West Indies,91 runs,Berri,"Mar 13, 1992",ODI # 742
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,128 runs,Hobart,"Mar 14, 1992",ODI # 743
+New Zealand vs England,New Zealand,England,New Zealand,7 wickets,Wellington,"Mar 15, 1992",ODI # 744
+India vs South Africa,India,South Africa,South Africa,6 wickets,Adelaide,"Mar 15, 1992",ODI # 745
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,4 wickets,Perth,"Mar 15, 1992",ODI # 746
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,7 wickets,Christchurch,"Mar 18, 1992",ODI # 747
+England vs Zimbabwe,England,Zimbabwe,Zimbabwe,9 runs,Albury,"Mar 18, 1992",ODI # 748
+Australia vs West Indies,Australia,West Indies,Australia,57 runs,Melbourne,"Mar 18, 1992",ODI # 749
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,4 wickets,Auckland,"Mar 21, 1992",ODI # 750
+England vs South Africa,England,South Africa,England,19 runs,Sydney,"Mar 22, 1992",ODI # 751
+England vs Pakistan,England,Pakistan,Pakistan,22 runs,Melbourne,"Mar 25, 1992",ODI # 752
+England vs New Zealand,England,New Zealand,New Zealand,11 runs,Ahmedabad,"Feb 14, 1996",ODI # 1048
+South Africa vs U.A.E.,South Africa,U.A.E.,South Africa,169 runs,Rawalpindi,"Feb 16, 1996",ODI # 1049
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,6 wickets,Hyderabad (Deccan),"Feb 16, 1996",ODI # 1050
+Netherlands vs New Zealand,Netherlands,New Zealand,New Zealand,119 runs,Vadodara,"Feb 17, 1996",ODI # 1051
+Sri Lanka vs Australia,Sri Lanka,Australia,Sri Lanka,,Colombo (RPS),"Feb 17, 1996",ODI # 1051a
+India vs Kenya,India,Kenya,India,7 wickets,Cuttack,"Feb 18, 1996",ODI # 1052
+England vs U.A.E.,England,U.A.E.,England,8 wickets,Peshawar,"Feb 18, 1996",ODI # 1053
+New Zealand vs South Africa,New Zealand,South Africa,South Africa,5 wickets,Faisalabad,"Feb 20, 1996",ODI # 1054
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,6 wickets,Colombo (SSC),"Feb 21, 1996",ODI # 1055
+India vs West Indies,India,West Indies,India,5 wickets,Gwalior,"Feb 21, 1996",ODI # 1056
+England vs Netherlands,England,Netherlands,England,49 runs,Peshawar,"Feb 22, 1996",ODI # 1057
+Australia vs Kenya,Australia,Kenya,Australia,97 runs,Visakhapatnam,"Feb 23, 1996",ODI # 1058
+Pakistan vs U.A.E.,Pakistan,U.A.E.,Pakistan,9 wickets,Gujranwala,"Feb 24, 1996",ODI # 1059
+Sri Lanka vs West Indies,Sri Lanka,West Indies,Sri Lanka,,Colombo (RPS),"Feb 25, 1996",ODI # 1060a
+England vs South Africa,England,South Africa,South Africa,78 runs,Rawalpindi,"Feb 25, 1996",ODI # 1060
+Kenya vs Zimbabwe,Kenya,Zimbabwe,no result,,Patna,"Feb 26, 1996",ODI # 1061
+Pakistan vs Netherlands,Pakistan,Netherlands,Pakistan,8 wickets,Lahore,"Feb 26, 1996",ODI # 1062
+Kenya vs Zimbabwe,Kenya,Zimbabwe,Zimbabwe,5 wickets,Patna,"Feb 27, 1996",ODI # 1063
+New Zealand vs U.A.E.,New Zealand,U.A.E.,New Zealand,109 runs,Faisalabad,"Feb 27, 1996",ODI # 1064
+India vs Australia,India,Australia,Australia,16 runs,Wankhede,"Feb 27, 1996",ODI # 1065
+Kenya vs West Indies,Kenya,West Indies,Kenya,73 runs,Pune,"Feb 29, 1996",ODI # 1066
+Pakistan vs South Africa,Pakistan,South Africa,South Africa,5 wickets,Karachi,"Feb 29, 1996",ODI # 1067
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,8 wickets,Nagpur,"Mar 1, 1996",ODI # 1068
+Netherlands vs U.A.E.,Netherlands,U.A.E.,U.A.E.,7 wickets,Lahore,"Mar 1, 1996",ODI # 1069
+India vs Sri Lanka,India,Sri Lanka,Sri Lanka,6 wickets,Delhi,"Mar 2, 1996",ODI # 1070
+Pakistan vs England,Pakistan,England,Pakistan,7 wickets,Karachi,"Mar 3, 1996",ODI # 1071
+Australia vs West Indies,Australia,West Indies,West Indies,4 wickets,Jaipur,"Mar 4, 1996",ODI # 1072
+Netherlands vs South Africa,Netherlands,South Africa,South Africa,160 runs,Rawalpindi,"Mar 5, 1996",ODI # 1073
+India vs Zimbabwe,India,Zimbabwe,India,40 runs,Kanpur,"Mar 6, 1996",ODI # 1075
+Sri Lanka vs Kenya,Sri Lanka,Kenya,Sri Lanka,144 runs,Kandy,"Mar 6, 1996",ODI # 1074
+Pakistan vs New Zealand,Pakistan,New Zealand,Pakistan,46 runs,Lahore,"Mar 6, 1996",ODI # 1076
+England vs Sri Lanka,England,Sri Lanka,Sri Lanka,5 wickets,Faisalabad,"Mar 9, 1996",ODI # 1077
+India vs Pakistan,India,Pakistan,India,39 runs,Bengaluru,"Mar 9, 1996",ODI # 1078
+South Africa vs West Indies,South Africa,West Indies,West Indies,19 runs,Karachi,"Mar 11, 1996",ODI # 1079
+Australia vs New Zealand,Australia,New Zealand,Australia,6 wickets,Chennai,"Mar 11, 1996",ODI # 1080
+India vs Sri Lanka,India,Sri Lanka,Sri Lanka,,Eden Gardens,"Mar 13, 1996",ODI # 1081
+Australia vs West Indies,Australia,West Indies,Australia,5 runs,Mohali,"Mar 14, 1996",ODI # 1082
+Australia vs Sri Lanka,Australia,Sri Lanka,Sri Lanka,7 wickets,Lahore,"Mar 17, 1996",ODI # 1083
+England vs Sri Lanka,England,Sri Lanka,England,8 wickets,Lord's,"May 14, 1999",ODI # 1443
+India vs South Africa,India,South Africa,South Africa,4 wickets,Hove,"May 15, 1999",ODI # 1444
+Kenya vs Zimbabwe,Kenya,Zimbabwe,Zimbabwe,5 wickets,Taunton,"May 15, 1999",ODI # 1445
+Australia vs Scotland,Australia,Scotland,Australia,6 wickets,Worcester,"May 16, 1999",ODI # 1446
+Pakistan vs West Indies,Pakistan,West Indies,Pakistan,27 runs,Bristol,"May 16, 1999",ODI # 1447
+Bangladesh vs New Zealand,Bangladesh,New Zealand,New Zealand,6 wickets,Chelmsford,"May 17, 1999",ODI # 1448
+England vs Kenya,England,Kenya,England,9 wickets,Canterbury,"May 18, 1999",ODI # 1449
+India vs Zimbabwe,India,Zimbabwe,Zimbabwe,3 runs,Leicester,"May 19, 1999",ODI # 1450
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,89 runs,Northampton,"May 19, 1999",ODI # 1451
+Australia vs New Zealand,Australia,New Zealand,New Zealand,5 wickets,Cardiff,"May 20, 1999",ODI # 1452
+Pakistan vs Scotland,Pakistan,Scotland,Pakistan,94 runs,Chester-le-Street,"May 20, 1999",ODI # 1453
+Bangladesh vs West Indies,Bangladesh,West Indies,West Indies,7 wickets,Dublin,"May 21, 1999",ODI # 1454
+England vs South Africa,England,South Africa,South Africa,122 runs,The Oval,"May 22, 1999",ODI # 1455
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,4 wickets,Worcester,"May 22, 1999",ODI # 1456
+India vs Kenya,India,Kenya,India,94 runs,Bristol,"May 23, 1999",ODI # 1457
+Australia vs Pakistan,Australia,Pakistan,Pakistan,10 runs,Leeds,"May 23, 1999",ODI # 1458
+Scotland vs Bangladesh,Scotland,Bangladesh,Bangladesh,22 runs,Edinburgh,"May 24, 1999",ODI # 1459
+New Zealand vs West Indies,New Zealand,West Indies,West Indies,7 wickets,Southampton,"May 24, 1999",ODI # 1460
+England vs Zimbabwe,England,Zimbabwe,England,7 wickets,Nottingham,"May 25, 1999",ODI # 1461
+Kenya vs South Africa,Kenya,South Africa,South Africa,7 wickets,Amstelveen,"May 26, 1999",ODI # 1462
+India vs Sri Lanka,India,Sri Lanka,India,157 runs,Taunton,"May 26, 1999",ODI # 1463
+Australia vs Bangladesh,Australia,Bangladesh,Australia,7 wickets,Chester-le-Street,"May 27, 1999",ODI # 1464
+Scotland vs West Indies,Scotland,West Indies,West Indies,8 wickets,Leicester,"May 27, 1999",ODI # 1465
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,62 runs,Derby,"May 28, 1999",ODI # 1466
+England vs India,England,India,India,63 runs,Birmingham,"May 29-30, 1999",ODI # 1467
+South Africa vs Zimbabwe,South Africa,Zimbabwe,Zimbabwe,48 runs,Chelmsford,"May 29, 1999",ODI # 1468
+Kenya vs Sri Lanka,Kenya,Sri Lanka,Sri Lanka,45 runs,Southampton,"May 30, 1999",ODI # 1469
+Australia vs West Indies,Australia,West Indies,Australia,6 wickets,Manchester,"May 30, 1999",ODI # 1470
+Bangladesh vs Pakistan,Bangladesh,Pakistan,Bangladesh,62 runs,Northampton,"May 31, 1999",ODI # 1471
+Scotland vs New Zealand,Scotland,New Zealand,New Zealand,6 wickets,Edinburgh,"May 31, 1999",ODI # 1472
+Australia vs India,Australia,India,Australia,77 runs,The Oval,"Jun 4, 1999",ODI # 1473
+Pakistan vs South Africa,Pakistan,South Africa,South Africa,3 wickets,Nottingham,"Jun 5, 1999",ODI # 1474
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,no result,,Leeds,"Jun 6-7, 1999",ODI # 1475
+India vs Pakistan,India,Pakistan,India,47 runs,Manchester,"Jun 8, 1999",ODI # 1476
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,44 runs,Lord's,"Jun 9, 1999",ODI # 1477
+New Zealand vs South Africa,New Zealand,South Africa,South Africa,74 runs,Birmingham,"Jun 10, 1999",ODI # 1478
+Pakistan vs Zimbabwe,Pakistan,Zimbabwe,Pakistan,148 runs,The Oval,"Jun 11, 1999",ODI # 1479
+India vs New Zealand,India,New Zealand,New Zealand,5 wickets,Nottingham,"Jun 12, 1999",ODI # 1480
+Australia vs South Africa,Australia,South Africa,Australia,5 wickets,Leeds,"Jun 13, 1999",ODI # 1481
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,9 wickets,Manchester,"Jun 16, 1999",ODI # 1482
+Australia vs South Africa,Australia,South Africa,tied,,Birmingham,"Jun 17, 1999",ODI # 1483
+Australia vs Pakistan,Australia,Pakistan,Australia,8 wickets,Lord's,"Jun 20, 1999",ODI # 1484
+South Africa vs West Indies,South Africa,West Indies,West Indies,3 runs,Cape Town,"Feb 9, 2003",ODI # 1942
+Zimbabwe vs Namibia,Zimbabwe,Namibia,Zimbabwe,86 runs,Harare,"Feb 10, 2003",ODI # 1943
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,Sri Lanka,47 runs,Bloemfontein,"Feb 10, 2003",ODI # 1944
+Australia vs Pakistan,Australia,Pakistan,Australia,82 runs,Johannesburg,"Feb 11, 2003",ODI # 1945
+Bangladesh vs Canada,Bangladesh,Canada,Canada,60 runs,Durban,"Feb 11, 2003",ODI # 1946
+South Africa vs Kenya,South Africa,Kenya,South Africa,10 wickets,Potchefstroom,"Feb 12, 2003",ODI # 1947
+India vs Netherlands,India,Netherlands,India,68 runs,Paarl,"Feb 12, 2003",ODI # 1948
+Zimbabwe vs England,Zimbabwe,England,Zimbabwe,,Harare,"Feb 13, 2003",ODI # 1948a
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,20 runs,Gqeberha,"Feb 13, 2003",ODI # 1949
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka,10 wickets,Pietermaritzburg,"Feb 14, 2003",ODI # 1950
+Australia vs India,Australia,India,Australia,9 wickets,Centurion,"Feb 15, 2003",ODI # 1951
+Canada vs Kenya,Canada,Kenya,Kenya,4 wickets,Cape Town,"Feb 15, 2003",ODI # 1952
+England vs Netherlands,England,Netherlands,England,6 wickets,East London,"Feb 16, 2003",ODI # 1953
+Namibia vs Pakistan,Namibia,Pakistan,Pakistan,171 runs,Kimberley,"Feb 16, 2003",ODI # 1954
+South Africa vs New Zealand,South Africa,New Zealand,New Zealand,9 wickets,Johannesburg,"Feb 16, 2003",ODI # 1955
+Bangladesh vs West Indies,Bangladesh,West Indies,no result,,Benoni,"Feb 18, 2003",ODI # 1956
+Zimbabwe vs India,Zimbabwe,India,India,83 runs,Harare,"Feb 19, 2003",ODI # 1957
+Canada vs Sri Lanka,Canada,Sri Lanka,Sri Lanka,9 wickets,Paarl,"Feb 19, 2003",ODI # 1958
+England vs Namibia,England,Namibia,England,55 runs,Gqeberha,"Feb 19, 2003",ODI # 1959
+Australia vs Netherlands,Australia,Netherlands,Australia,75 runs,Potchefstroom,"Feb 20, 2003",ODI # 1960
+Kenya vs New Zealand,Kenya,New Zealand,Kenya,,Nairobi (Gym),"Feb 21, 2003",ODI # 1960a
+South Africa vs Bangladesh,South Africa,Bangladesh,South Africa,10 wickets,Bloemfontein,"Feb 22, 2003",ODI # 1961
+England vs Pakistan,England,Pakistan,England,112 runs,Cape Town,"Feb 22, 2003",ODI # 1962
+Canada vs West Indies,Canada,West Indies,West Indies,7 wickets,Centurion,"Feb 23, 2003",ODI # 1963
+India vs Namibia,India,Namibia,India,181 runs,Pietermaritzburg,"Feb 23, 2003",ODI # 1964
+Kenya vs Sri Lanka,Kenya,Sri Lanka,Kenya,53 runs,Nairobi (Gym),"Feb 24, 2003",ODI # 1965
+Zimbabwe vs Australia,Zimbabwe,Australia,Australia,7 wickets,Bulawayo,"Feb 24, 2003",ODI # 1966
+Netherlands vs Pakistan,Netherlands,Pakistan,Pakistan,97 runs,Paarl,"Feb 25, 2003",ODI # 1967
+Bangladesh vs New Zealand,Bangladesh,New Zealand,New Zealand,7 wickets,Kimberley,"Feb 26, 2003",ODI # 1968
+England vs India,England,India,India,82 runs,Durban,"Feb 26, 2003",ODI # 1969
+Australia vs Namibia,Australia,Namibia,Australia,256 runs,Potchefstroom,"Feb 27, 2003",ODI # 1970
+South Africa vs Canada,South Africa,Canada,South Africa,118 runs,East London,"Feb 27, 2003",ODI # 1971
+Zimbabwe vs Netherlands,Zimbabwe,Netherlands,Zimbabwe,99 runs,Bulawayo,"Feb 28, 2003",ODI # 1972
+Sri Lanka vs West Indies,Sri Lanka,West Indies,Sri Lanka,6 runs,Cape Town,"Feb 28, 2003",ODI # 1973
+Bangladesh vs Kenya,Bangladesh,Kenya,Kenya,32 runs,Johannesburg,"Mar 1, 2003",ODI # 1974
+India vs Pakistan,India,Pakistan,India,6 wickets,Centurion,"Mar 1, 2003",ODI # 1975
+Australia vs England,Australia,England,Australia,2 wickets,Gqeberha,"Mar 2, 2003",ODI # 1976
+Canada vs New Zealand,Canada,New Zealand,New Zealand,5 wickets,Benoni,"Mar 3, 2003",ODI # 1977
+Namibia vs Netherlands,Namibia,Netherlands,Netherlands,64 runs,Bloemfontein,"Mar 3, 2003",ODI # 1978
+South Africa vs Sri Lanka,South Africa,Sri Lanka,tied,,Durban,"Mar 3, 2003",ODI # 1979
+Zimbabwe vs Pakistan,Zimbabwe,Pakistan,no result,,Bulawayo,"Mar 4, 2003",ODI # 1980
+Kenya vs West Indies,Kenya,West Indies,West Indies,142 runs,Kimberley,"Mar 4, 2003",ODI # 1981
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,96 runs,Centurion,"Mar 7, 2003",ODI # 1982
+India vs Kenya,India,Kenya,India,6 wickets,Cape Town,"Mar 7, 2003",ODI # 1983
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,6 wickets,Bloemfontein,"Mar 8, 2003",ODI # 1984
+India vs Sri Lanka,India,Sri Lanka,India,183 runs,Johannesburg,"Mar 10, 2003",ODI # 1985
+Australia vs New Zealand,Australia,New Zealand,Australia,96 runs,Gqeberha,"Mar 11, 2003",ODI # 1986
+Kenya vs Zimbabwe,Kenya,Zimbabwe,Kenya,7 wickets,Bloemfontein,"Mar 12, 2003",ODI # 1987
+India vs New Zealand,India,New Zealand,India,7 wickets,Centurion,"Mar 14, 2003",ODI # 1988
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,74 runs,East London,"Mar 15, 2003",ODI # 1989
+Australia vs Kenya,Australia,Kenya,Australia,5 wickets,Durban,"Mar 15, 2003",ODI # 1990
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,48 runs,Gqeberha,"Mar 18, 2003",ODI # 1991
+India vs Kenya,India,Kenya,India,91 runs,Durban,"Mar 20, 2003",ODI # 1992
+Australia vs India,Australia,India,Australia,125 runs,Johannesburg,"Mar 23, 2003",ODI # 1993
+West Indies vs Pakistan,West Indies,Pakistan,West Indies,54 runs,Kingston,"Mar 13, 2007",ODI # 2531
+Australia vs Scotland,Australia,Scotland,Australia,203 runs,Basseterre,"Mar 14, 2007",ODI # 2532
+Canada vs Kenya,Canada,Kenya,Kenya,7 wickets,Gros Islet,"Mar 14, 2007",ODI # 2533
+Bermuda vs Sri Lanka,Bermuda,Sri Lanka,Sri Lanka,243 runs,Port of Spain,"Mar 15, 2007",ODI # 2534
+Ireland vs Zimbabwe,Ireland,Zimbabwe,tied,,Kingston,"Mar 15, 2007",ODI # 2535
+England vs New Zealand,England,New Zealand,New Zealand,6 wickets,Gros Islet,"Mar 16, 2007",ODI # 2536
+Netherlands vs South Africa,Netherlands,South Africa,South Africa,221 runs,Basseterre,"Mar 16, 2007",ODI # 2537
+Bangladesh vs India,Bangladesh,India,Bangladesh,5 wickets,Port of Spain,"Mar 17, 2007",ODI # 2538
+Ireland vs Pakistan,Ireland,Pakistan,Ireland,3 wickets,Kingston,"Mar 17, 2007",ODI # 2539
+Australia vs Netherlands,Australia,Netherlands,Australia,229 runs,Basseterre,"Mar 18, 2007",ODI # 2540
+Canada vs England,Canada,England,England,51 runs,Gros Islet,"Mar 18, 2007",ODI # 2541
+Bermuda vs India,Bermuda,India,India,257 runs,Port of Spain,"Mar 19, 2007",ODI # 2542
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,6 wickets,Kingston,"Mar 19, 2007",ODI # 2543
+Kenya vs New Zealand,Kenya,New Zealand,New Zealand,148 runs,Gros Islet,"Mar 20, 2007",ODI # 2544
+Scotland vs South Africa,Scotland,South Africa,South Africa,7 wickets,Basseterre,"Mar 20, 2007",ODI # 2545
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka,198 runs,Port of Spain,"Mar 21, 2007",ODI # 2546
+Pakistan vs Zimbabwe,Pakistan,Zimbabwe,Pakistan,93 runs,Kingston,"Mar 21, 2007",ODI # 2547
+Canada vs New Zealand,Canada,New Zealand,New Zealand,114 runs,Gros Islet,"Mar 22, 2007",ODI # 2548
+Netherlands vs Scotland,Netherlands,Scotland,Netherlands,8 wickets,Basseterre,"Mar 22, 2007",ODI # 2549
+India vs Sri Lanka,India,Sri Lanka,Sri Lanka,69 runs,Port of Spain,"Mar 23, 2007",ODI # 2550
+West Indies vs Ireland,West Indies,Ireland,West Indies,8 wickets,Kingston,"Mar 23, 2007",ODI # 2551
+Australia vs South Africa,Australia,South Africa,Australia,83 runs,Basseterre,"Mar 24, 2007",ODI # 2552
+England vs Kenya,England,Kenya,England,7 wickets,Gros Islet,"Mar 24, 2007",ODI # 2553
+Bangladesh vs Bermuda,Bangladesh,Bermuda,Bangladesh,7 wickets,Port of Spain,"Mar 25, 2007",ODI # 2554
+West Indies vs Australia,West Indies,Australia,Australia,103 runs,North Sound,"Mar 27-28, 2007",ODI # 2555
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,1 wicket,Providence,"Mar 28, 2007",ODI # 2556
+West Indies vs New Zealand,West Indies,New Zealand,New Zealand,7 wickets,North Sound,"Mar 29, 2007",ODI # 2557
+England vs Ireland,England,Ireland,England,48 runs,Providence,"Mar 30, 2007",ODI # 2558
+Australia vs Bangladesh,Australia,Bangladesh,Australia,10 wickets,North Sound,"Mar 31, 2007",ODI # 2559
+West Indies vs Sri Lanka,West Indies,Sri Lanka,Sri Lanka,113 runs,Providence,"Apr 1, 2007",ODI # 2560
+Bangladesh vs New Zealand,Bangladesh,New Zealand,New Zealand,9 wickets,North Sound,"Apr 2, 2007",ODI # 2561
+Ireland vs South Africa,Ireland,South Africa,South Africa,7 wickets,Providence,"Apr 3, 2007",ODI # 2562
+England vs Sri Lanka,England,Sri Lanka,Sri Lanka,2 runs,North Sound,"Apr 4, 2007",ODI # 2563
+Bangladesh vs South Africa,Bangladesh,South Africa,Bangladesh,67 runs,Providence,"Apr 7, 2007",ODI # 2564
+Australia vs England,Australia,England,Australia,7 wickets,North Sound,"Apr 8, 2007",ODI # 2565
+Ireland vs New Zealand,Ireland,New Zealand,New Zealand,129 runs,Providence,"Apr 9, 2007",ODI # 2566
+West Indies vs South Africa,West Indies,South Africa,South Africa,67 runs,St George's,"Apr 10, 2007",ODI # 2567
+Bangladesh vs England,Bangladesh,England,England,4 wickets,Bridgetown,"Apr 11, 2007",ODI # 2568
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,Sri Lanka,6 wickets,St George's,"Apr 12, 2007",ODI # 2569
+Australia vs Ireland,Australia,Ireland,Australia,9 wickets,Bridgetown,"Apr 13, 2007",ODI # 2570
+New Zealand vs South Africa,New Zealand,South Africa,New Zealand,5 wickets,St George's,"Apr 14, 2007",ODI # 2571
+Bangladesh vs Ireland,Bangladesh,Ireland,Ireland,74 runs,Bridgetown,"Apr 15, 2007",ODI # 2572
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,7 wickets,St George's,"Apr 16, 2007",ODI # 2573
+England vs South Africa,England,South Africa,South Africa,9 wickets,Bridgetown,"Apr 17, 2007",ODI # 2574
+Ireland vs Sri Lanka,Ireland,Sri Lanka,Sri Lanka,8 wickets,St George's,"Apr 18, 2007",ODI # 2575
+West Indies vs Bangladesh,West Indies,Bangladesh,West Indies,99 runs,Bridgetown,"Apr 19, 2007",ODI # 2576
+Australia vs New Zealand,Australia,New Zealand,Australia,215 runs,St George's,"Apr 20, 2007",ODI # 2577
+West Indies vs England,West Indies,England,England,1 wicket,Bridgetown,"Apr 21, 2007",ODI # 2578
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,Sri Lanka,81 runs,Kingston,"Apr 24, 2007",ODI # 2579
+Australia vs South Africa,Australia,South Africa,Australia,7 wickets,Gros Islet,"Apr 25, 2007",ODI # 2580
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,53 runs,Bridgetown,"Apr 28, 2007",ODI # 2581
+Bangladesh vs India,Bangladesh,India,India,87 runs,Mirpur,"Feb 19, 2011",ODI # 3100
+Kenya vs New Zealand,Kenya,New Zealand,New Zealand,10 wickets,Chennai,"Feb 20, 2011",ODI # 3101
+Sri Lanka vs Canada,Sri Lanka,Canada,Sri Lanka,210 runs,Hambantota,"Feb 20, 2011",ODI # 3102
+Australia vs Zimbabwe,Australia,Zimbabwe,Australia,91 runs,Ahmedabad,"Feb 21, 2011",ODI # 3103
+England vs Netherlands,England,Netherlands,England,6 wickets,Nagpur,"Feb 22, 2011",ODI # 3104
+Kenya vs Pakistan,Kenya,Pakistan,Pakistan,205 runs,Hambantota,"Feb 23, 2011",ODI # 3105
+South Africa vs West Indies,South Africa,West Indies,South Africa,7 wickets,Delhi,"Feb 24, 2011",ODI # 3106
+Australia vs New Zealand,Australia,New Zealand,Australia,7 wickets,Nagpur,"Feb 25, 2011",ODI # 3107
+Bangladesh vs Ireland,Bangladesh,Ireland,Bangladesh,27 runs,Mirpur,"Feb 25, 2011",ODI # 3108
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Pakistan,11 runs,Colombo (RPS),"Feb 26, 2011",ODI # 3109
+India vs England,India,England,tied,,Bengaluru,"Feb 27, 2011",ODI # 3110
+Canada vs Zimbabwe,Canada,Zimbabwe,Zimbabwe,175 runs,Nagpur,"Feb 28, 2011",ODI # 3111
+Netherlands vs West Indies,Netherlands,West Indies,West Indies,215 runs,Delhi,"Feb 28, 2011",ODI # 3112
+Sri Lanka vs Kenya,Sri Lanka,Kenya,Sri Lanka,9 wickets,Colombo (RPS),"Mar 1, 2011",ODI # 3113
+England vs Ireland,England,Ireland,Ireland,3 wickets,Bengaluru,"Mar 2, 2011",ODI # 3114
+Netherlands vs South Africa,Netherlands,South Africa,South Africa,231 runs,Mohali,"Mar 3, 2011",ODI # 3115
+Canada vs Pakistan,Canada,Pakistan,Pakistan,46 runs,Colombo (RPS),"Mar 3, 2011",ODI # 3116
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,10 wickets,Ahmedabad,"Mar 4, 2011",ODI # 3117
+Bangladesh vs West Indies,Bangladesh,West Indies,West Indies,9 wickets,Mirpur,"Mar 4, 2011",ODI # 3118
+Sri Lanka vs Australia,Sri Lanka,Australia,no result,,Colombo (RPS),"Mar 5, 2011",ODI # 3119
+England vs South Africa,England,South Africa,England,6 runs,Chennai,"Mar 6, 2011",ODI # 3120
+India vs Ireland,India,Ireland,India,5 wickets,Bengaluru,"Mar 6, 2011",ODI # 3121
+Canada vs Kenya,Canada,Kenya,Canada,5 wickets,Delhi,"Mar 7, 2011",ODI # 3122
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,110 runs,Pallekele,"Mar 8, 2011",ODI # 3123
+India vs Netherlands,India,Netherlands,India,5 wickets,Delhi,"Mar 9, 2011",ODI # 3124
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,139 runs,Pallekele,"Mar 10, 2011",ODI # 3125
+Ireland vs West Indies,Ireland,West Indies,West Indies,44 runs,Mohali,"Mar 11, 2011",ODI # 3126
+Bangladesh vs England,Bangladesh,England,Bangladesh,2 wickets,Chattogram,"Mar 11, 2011",ODI # 3127
+India vs South Africa,India,South Africa,South Africa,3 wickets,Nagpur,"Mar 12, 2011",ODI # 3128
+Canada vs New Zealand,Canada,New Zealand,New Zealand,97 runs,Wankhede,"Mar 13, 2011",ODI # 3129
+Australia vs Kenya,Australia,Kenya,Australia,60 runs,Bengaluru,"Mar 13, 2011",ODI # 3130
+Bangladesh vs Netherlands,Bangladesh,Netherlands,Bangladesh,6 wickets,Chattogram,"Mar 14, 2011",ODI # 3131
+Pakistan vs Zimbabwe,Pakistan,Zimbabwe,Pakistan,7 wickets,Pallekele,"Mar 14, 2011",ODI # 3132
+Ireland vs South Africa,Ireland,South Africa,South Africa,131 runs,Eden Gardens,"Mar 15, 2011",ODI # 3133
+Australia vs Canada,Australia,Canada,Australia,7 wickets,Bengaluru,"Mar 16, 2011",ODI # 3134
+England vs West Indies,England,West Indies,England,18 runs,Chennai,"Mar 17, 2011",ODI # 3135
+Ireland vs Netherlands,Ireland,Netherlands,Ireland,6 wickets,Eden Gardens,"Mar 18, 2011",ODI # 3136
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,Sri Lanka,112 runs,Wankhede,"Mar 18, 2011",ODI # 3137
+Bangladesh vs South Africa,Bangladesh,South Africa,South Africa,206 runs,Mirpur,"Mar 19, 2011",ODI # 3138
+Australia vs Pakistan,Australia,Pakistan,Pakistan,4 wickets,Colombo (RPS),"Mar 19, 2011",ODI # 3139
+Kenya vs Zimbabwe,Kenya,Zimbabwe,Zimbabwe,161 runs,Eden Gardens,"Mar 20, 2011",ODI # 3140
+India vs West Indies,India,West Indies,India,80 runs,Chennai,"Mar 20, 2011",ODI # 3141
+Pakistan vs West Indies,Pakistan,West Indies,Pakistan,10 wickets,Mirpur,"Mar 23, 2011",ODI # 3142
+India vs Australia,India,Australia,India,5 wickets,Ahmedabad,"Mar 24, 2011",ODI # 3143
+New Zealand vs South Africa,New Zealand,South Africa,New Zealand,49 runs,Mirpur,"Mar 25, 2011",ODI # 3144
+Sri Lanka vs England,Sri Lanka,England,Sri Lanka,10 wickets,Colombo (RPS),"Mar 26, 2011",ODI # 3145
+Sri Lanka vs New Zealand,Sri Lanka,New Zealand,Sri Lanka,5 wickets,Colombo (RPS),"Mar 29, 2011",ODI # 3146
+India vs Pakistan,India,Pakistan,India,29 runs,Mohali,"Mar 30, 2011",ODI # 3147
+India vs Sri Lanka,India,Sri Lanka,India,6 wickets,Wankhede,"Apr 2, 2011",ODI # 3148
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,98 runs,Christchurch,"Feb 14, 2015",ODI # 3599
+Australia vs England,Australia,England,Australia,111 runs,Melbourne,"Feb 14, 2015",ODI # 3600
+South Africa vs Zimbabwe,South Africa,Zimbabwe,South Africa,62 runs,Hamilton,"Feb 15, 2015",ODI # 3601
+India vs Pakistan,India,Pakistan,India,76 runs,Adelaide,"Feb 15, 2015",ODI # 3602
+Ireland vs West Indies,Ireland,West Indies,Ireland,4 wickets,Nelson,"Feb 16, 2015",ODI # 3603
+New Zealand vs Scotland,New Zealand,Scotland,New Zealand,3 wickets,Dunedin,"Feb 17, 2015",ODI # 3604
+Afghanistan vs Bangladesh,Afghanistan,Bangladesh,Bangladesh,105 runs,Canberra,"Feb 18, 2015",ODI # 3605
+U.A.E. vs Zimbabwe,U.A.E.,Zimbabwe,Zimbabwe,4 wickets,Nelson,"Feb 19, 2015",ODI # 3606
+New Zealand vs England,New Zealand,England,New Zealand,8 wickets,Wellington,"Feb 20, 2015",ODI # 3607
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,150 runs,Christchurch,"Feb 21, 2015",ODI # 3608
+Australia vs Bangladesh,Australia,Bangladesh,abandoned,,Brisbane,"Feb 21, 2015",ODI # 3608a
+Afghanistan vs Sri Lanka,Afghanistan,Sri Lanka,Sri Lanka,4 wickets,Dunedin,"Feb 22, 2015",ODI # 3609
+India vs South Africa,India,South Africa,India,130 runs,Melbourne,"Feb 22, 2015",ODI # 3610
+England vs Scotland,England,Scotland,England,119 runs,Christchurch,"Feb 23, 2015",ODI # 3611
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,73 runs,Canberra,"Feb 24, 2015",ODI # 3612
+Ireland vs U.A.E.,Ireland,U.A.E.,Ireland,2 wickets,Brisbane,"Feb 25, 2015",ODI # 3613
+Afghanistan vs Scotland,Afghanistan,Scotland,Afghanistan,1 wicket,Dunedin,"Feb 26, 2015",ODI # 3614
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka,92 runs,Melbourne,"Feb 26, 2015",ODI # 3615
+South Africa vs West Indies,South Africa,West Indies,South Africa,257 runs,Sydney,"Feb 27, 2015",ODI # 3616
+New Zealand vs Australia,New Zealand,Australia,New Zealand,1 wicket,Auckland,"Feb 28, 2015",ODI # 3617
+India vs U.A.E.,India,U.A.E.,India,9 wickets,Perth,"Feb 28, 2015",ODI # 3618
+England vs Sri Lanka,England,Sri Lanka,Sri Lanka,9 wickets,Wellington,"Mar 1, 2015",ODI # 3619
+Pakistan vs Zimbabwe,Pakistan,Zimbabwe,Pakistan,20 runs,Brisbane,"Mar 1, 2015",ODI # 3620
+Ireland vs South Africa,Ireland,South Africa,South Africa,201 runs,Canberra,"Mar 3, 2015",ODI # 3621
+Pakistan vs U.A.E.,Pakistan,U.A.E.,Pakistan,129 runs,Napier,"Mar 4, 2015",ODI # 3622
+Australia vs Afghanistan,Australia,Afghanistan,Australia,275 runs,Perth,"Mar 4, 2015",ODI # 3623
+Bangladesh vs Scotland,Bangladesh,Scotland,Bangladesh,6 wickets,Nelson,"Mar 5, 2015",ODI # 3624
+India vs West Indies,India,West Indies,India,4 wickets,Perth,"Mar 6, 2015",ODI # 3625
+Pakistan vs South Africa,Pakistan,South Africa,Pakistan,29 runs,Auckland,"Mar 7, 2015",ODI # 3626
+Ireland vs Zimbabwe,Ireland,Zimbabwe,Ireland,5 runs,Hobart,"Mar 7, 2015",ODI # 3627
+New Zealand vs Afghanistan,New Zealand,Afghanistan,New Zealand,6 wickets,Napier,"Mar 8, 2015",ODI # 3628
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,64 runs,Sydney,"Mar 8, 2015",ODI # 3629
+Bangladesh vs England,Bangladesh,England,Bangladesh,15 runs,Adelaide,"Mar 9, 2015",ODI # 3630
+India vs Ireland,India,Ireland,India,8 wickets,Hamilton,"Mar 10, 2015",ODI # 3631
+Scotland vs Sri Lanka,Scotland,Sri Lanka,Sri Lanka,148 runs,Hobart,"Mar 11, 2015",ODI # 3632
+South Africa vs U.A.E.,South Africa,U.A.E.,South Africa,146 runs,Wellington,"Mar 12, 2015",ODI # 3633
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,3 wickets,Hamilton,"Mar 13, 2015",ODI # 3634
+Afghanistan vs England,Afghanistan,England,England,9 wickets,Sydney,"Mar 13, 2015",ODI # 3635
+India vs Zimbabwe,India,Zimbabwe,India,6 wickets,Auckland,"Mar 14, 2015",ODI # 3636
+Australia vs Scotland,Australia,Scotland,Australia,7 wickets,Hobart,"Mar 14, 2015",ODI # 3637
+U.A.E. vs West Indies,U.A.E.,West Indies,West Indies,6 wickets,Napier,"Mar 15, 2015",ODI # 3638
+Ireland vs Pakistan,Ireland,Pakistan,Pakistan,7 wickets,Adelaide,"Mar 15, 2015",ODI # 3639
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,9 wickets,Sydney,"Mar 18, 2015",ODI # 3640
+Bangladesh vs India,Bangladesh,India,India,109 runs,Melbourne,"Mar 19, 2015",ODI # 3641
+Australia vs Pakistan,Australia,Pakistan,Australia,6 wickets,Adelaide,"Mar 20, 2015",ODI # 3642
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,143 runs,Wellington,"Mar 21, 2015",ODI # 3643
+New Zealand vs South Africa,New Zealand,South Africa,New Zealand,4 wickets,Auckland,"Mar 24, 2015",ODI # 3644
+Australia vs India,Australia,India,Australia,95 runs,Sydney,"Mar 26, 2015",ODI # 3645
+Australia vs New Zealand,Australia,New Zealand,Australia,7 wickets,Melbourne,"Mar 29, 2015",ODI # 3646
+England vs South Africa,England,South Africa,England,104 runs,The Oval,"May 30, 2019",ODI # 4143
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,7 wickets,Nottingham,"May 31, 2019",ODI # 4144
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,10 wickets,Cardiff,"Jun 1, 2019",ODI # 4145
+Afghanistan vs Australia,Afghanistan,Australia,Australia,7 wickets,Bristol,"Jun 1, 2019",ODI # 4146
+Bangladesh vs South Africa,Bangladesh,South Africa,Bangladesh,21 runs,The Oval,"Jun 2, 2019",ODI # 4147
+England vs Pakistan,England,Pakistan,Pakistan,14 runs,Nottingham,"Jun 3, 2019",ODI # 4148
+Afghanistan vs Sri Lanka,Afghanistan,Sri Lanka,Sri Lanka,34 runs,Cardiff,"Jun 4, 2019",ODI # 4149
+India vs South Africa,India,South Africa,India,6 wickets,Southampton,"Jun 5, 2019",ODI # 4150
+Bangladesh vs New Zealand,Bangladesh,New Zealand,New Zealand,2 wickets,The Oval,"Jun 5, 2019",ODI # 4151
+Australia vs West Indies,Australia,West Indies,Australia,15 runs,Nottingham,"Jun 6, 2019",ODI # 4152
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,abandoned,,Bristol,"Jun 7, 2019",ODI # 4152a
+England vs Bangladesh,England,Bangladesh,England,106 runs,Cardiff,"Jun 8, 2019",ODI # 4153
+Afghanistan vs New Zealand,Afghanistan,New Zealand,New Zealand,7 wickets,Taunton,"Jun 8, 2019",ODI # 4154
+Australia vs India,Australia,India,India,36 runs,The Oval,"Jun 9, 2019",ODI # 4155
+South Africa vs West Indies,South Africa,West Indies,no result,,Southampton,"Jun 10, 2019",ODI # 4156
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,abandoned,,Bristol,"Jun 11, 2019",ODI # 4156a
+Australia vs Pakistan,Australia,Pakistan,Australia,41 runs,Taunton,"Jun 12, 2019",ODI # 4157
+India vs New Zealand,India,New Zealand,abandoned,,Nottingham,"Jun 13, 2019",ODI # 4157a
+England vs West Indies,England,West Indies,England,8 wickets,Southampton,"Jun 14, 2019",ODI # 4158
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,87 runs,The Oval,"Jun 15, 2019",ODI # 4159
+Afghanistan vs South Africa,Afghanistan,South Africa,South Africa,9 wickets,Cardiff,"Jun 15, 2019",ODI # 4160
+India vs Pakistan,India,Pakistan,India,89 runs,Manchester,"Jun 16, 2019",ODI # 4161
+Bangladesh vs West Indies,Bangladesh,West Indies,Bangladesh,7 wickets,Taunton,"Jun 17, 2019",ODI # 4162
+England vs Afghanistan,England,Afghanistan,England,150 runs,Manchester,"Jun 18, 2019",ODI # 4163
+New Zealand vs South Africa,New Zealand,South Africa,New Zealand,4 wickets,Birmingham,"Jun 19, 2019",ODI # 4165
+Australia vs Bangladesh,Australia,Bangladesh,Australia,48 runs,Nottingham,"Jun 20, 2019",ODI # 4166
+England vs Sri Lanka,England,Sri Lanka,Sri Lanka,20 runs,Leeds,"Jun 21, 2019",ODI # 4168
+Afghanistan vs India,Afghanistan,India,India,11 runs,Southampton,"Jun 22, 2019",ODI # 4169
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,5 runs,Manchester,"Jun 22, 2019",ODI # 4170
+Pakistan vs South Africa,Pakistan,South Africa,Pakistan,49 runs,Lord's,"Jun 23, 2019",ODI # 4171
+Afghanistan vs Bangladesh,Afghanistan,Bangladesh,Bangladesh,62 runs,Southampton,"Jun 24, 2019",ODI # 4172
+England vs Australia,England,Australia,Australia,64 runs,Lord's,"Jun 25, 2019",ODI # 4173
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,6 wickets,Birmingham,"Jun 26, 2019",ODI # 4174
+India vs West Indies,India,West Indies,India,125 runs,Manchester,"Jun 27, 2019",ODI # 4175
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,9 wickets,Chester-le-Street,"Jun 28, 2019",ODI # 4176
+Afghanistan vs Pakistan,Afghanistan,Pakistan,Pakistan,3 wickets,Leeds,"Jun 29, 2019",ODI # 4177
+Australia vs New Zealand,Australia,New Zealand,Australia,86 runs,Lord's,"Jun 29, 2019",ODI # 4178
+England vs India,England,India,England,31 runs,Birmingham,"Jun 30, 2019",ODI # 4179
+Sri Lanka vs West Indies,Sri Lanka,West Indies,Sri Lanka,23 runs,Chester-le-Street,"Jul 1, 2019",ODI # 4180
+Bangladesh vs India,Bangladesh,India,India,28 runs,Birmingham,"Jul 2, 2019",ODI # 4182
+England vs New Zealand,England,New Zealand,England,119 runs,Chester-le-Street,"Jul 3, 2019",ODI # 4183
+Afghanistan vs West Indies,Afghanistan,West Indies,West Indies,23 runs,Leeds,"Jul 4, 2019",ODI # 4184
+Bangladesh vs Pakistan,Bangladesh,Pakistan,Pakistan,94 runs,Lord's,"Jul 5, 2019",ODI # 4186
+India vs Sri Lanka,India,Sri Lanka,India,7 wickets,Leeds,"Jul 6, 2019",ODI # 4187
+Australia vs South Africa,Australia,South Africa,South Africa,10 runs,Manchester,"Jul 6, 2019",ODI # 4188
+India vs New Zealand,India,New Zealand,New Zealand,18 runs,Manchester,"Jul 9-10, 2019",ODI # 4190
+England vs Australia,England,Australia,England,8 wickets,Birmingham,"Jul 11, 2019",ODI # 4191
+England vs New Zealand,England,New Zealand,tied,,Lord's,"Jul 14, 2019",ODI # 4192
