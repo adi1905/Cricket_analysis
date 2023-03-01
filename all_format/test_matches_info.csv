@@ -1,0 +1,435 @@
+Match,Team 1,Team 2,Winner,Margin,Ground,Match Date,Match id
+Australia vs Pakistan,Australia,Pakistan,Australia,36 runs,Sydney,"Jan 3-6, 2010",Test # 1945
+South Africa vs England,South Africa,England,drawn,,Cape Town,"Jan 3-7, 2010",Test # 1946
+Australia vs Pakistan,Australia,Pakistan,Australia,231 runs,Hobart,"Jan 14-18, 2010",Test # 1947
+South Africa vs England,South Africa,England,South Africa,inns & 74 runs,Johannesburg,"Jan 14-17, 2010",Test # 1948
+Bangladesh vs India,Bangladesh,India,India,113 runs,Chattogram,"Jan 17-21, 2010",Test # 1949
+Bangladesh vs India,Bangladesh,India,India,10 wickets,Mirpur,"Jan 24-27, 2010",Test # 1950
+India vs South Africa,India,South Africa,South Africa,inns & 6 runs,Nagpur,"Feb 6-9, 2010",Test # 1951
+India vs South Africa,India,South Africa,India,inns & 57 runs,Eden Gardens,"Feb 14-18, 2010",Test # 1952
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,121 runs,Hamilton,"Feb 15-19, 2010",Test # 1953
+Bangladesh vs England,Bangladesh,England,England,181 runs,Chattogram,"Mar 12-16, 2010",Test # 1954
+New Zealand vs Australia,New Zealand,Australia,Australia,10 wickets,Wellington,"Mar 19-23, 2010",Test # 1955
+Bangladesh vs England,Bangladesh,England,England,9 wickets,Mirpur,"Mar 20-24, 2010",Test # 1956
+New Zealand vs Australia,New Zealand,Australia,Australia,176 runs,Hamilton,"Mar 27-31, 2010",Test # 1957
+England vs Bangladesh,England,Bangladesh,England,8 wickets,Lord's,"May 27-31, 2010",Test # 1958
+England vs Bangladesh,England,Bangladesh,England,inns & 80 runs,Manchester,"Jun 4-6, 2010",Test # 1959
+West Indies vs South Africa,West Indies,South Africa,South Africa,163 runs,Port of Spain,"Jun 10-13, 2010",Test # 1960
+West Indies vs South Africa,West Indies,South Africa,drawn,,Basseterre,"Jun 18-22, 2010",Test # 1961
+West Indies vs South Africa,West Indies,South Africa,South Africa,7 wickets,Bridgetown,"Jun 26-29, 2010",Test # 1962
+Australia vs Pakistan,Australia,Pakistan,Australia,150 runs,Lord's,"Jul 13-16, 2010",Test # 1963
+Sri Lanka vs India,Sri Lanka,India,Sri Lanka,10 wickets,Galle,"Jul 18-22, 2010",Test # 1964
+Australia vs Pakistan,Australia,Pakistan,Pakistan,3 wickets,Leeds,"Jul 21-24, 2010",Test # 1965
+Sri Lanka vs India,Sri Lanka,India,drawn,,Colombo (SSC),"Jul 26-30, 2010",Test # 1966
+England vs Pakistan,England,Pakistan,England,354 runs,Nottingham,"Jul 29-Aug 1, 2010",Test # 1967
+Sri Lanka vs India,Sri Lanka,India,India,5 wickets,Colombo (PSS),"Aug 3-7, 2010",Test # 1968
+England vs Pakistan,England,Pakistan,England,9 wickets,Birmingham,"Aug 6-9, 2010",Test # 1969
+England vs Pakistan,England,Pakistan,Pakistan,4 wickets,The Oval,"Aug 18-21, 2010",Test # 1970
+England vs Pakistan,England,Pakistan,England,inns & 225 runs,Lord's,"Aug 26-29, 2010",Test # 1971
+India vs Australia,India,Australia,India,1 wicket,Mohali,"Oct 1-5, 2010",Test # 1972
+India vs Australia,India,Australia,India,7 wickets,Bengaluru,"Oct 9-13, 2010",Test # 1973
+India vs New Zealand,India,New Zealand,drawn,,Ahmedabad,"Nov 4-8, 2010",Test # 1974
+India vs New Zealand,India,New Zealand,drawn,,Hyderabad,"Nov 12-16, 2010",Test # 1975
+Pakistan vs South Africa,Pakistan,South Africa,drawn,,Dubai (DSC),"Nov 12-16, 2010",Test # 1976
+Sri Lanka vs West Indies,Sri Lanka,West Indies,drawn,,Galle,"Nov 15-19, 2010",Test # 1977
+India vs New Zealand,India,New Zealand,India,inns & 198 runs,Nagpur,"Nov 20-23, 2010",Test # 1978
+Pakistan vs South Africa,Pakistan,South Africa,drawn,,Abu Dhabi,"Nov 20-24, 2010",Test # 1979
+Sri Lanka vs West Indies,Sri Lanka,West Indies,drawn,,Colombo (RPS),"Nov 23-27, 2010",Test # 1980
+Australia vs England,Australia,England,drawn,,Brisbane,"Nov 25-29, 2010",Test # 1981
+Sri Lanka vs West Indies,Sri Lanka,West Indies,drawn,,Pallekele,"Dec 1-5, 2010",Test # 1982
+Australia vs England,Australia,England,England,inns & 71 runs,Adelaide,"Dec 3-7, 2010",Test # 1983
+Australia vs England,Australia,England,Australia,267 runs,Perth,"Dec 16-19, 2010",Test # 1984
+South Africa vs India,South Africa,India,South Africa,inns & 25 runs,Centurion,"Dec 16-20, 2010",Test # 1985
+Australia vs England,Australia,England,England,inns & 157 runs,Melbourne,"Dec 26-29, 2010",Test # 1986
+South Africa vs India,South Africa,India,India,87 runs,Durban,"Dec 26-29, 2010",Test # 1987
+South Africa vs India,South Africa,India,drawn,,Cape Town,"Jan 2-6, 2011",Test # 1988
+Australia vs England,Australia,England,England,inns & 83 runs,Sydney,"Jan 3-7, 2011",Test # 1989
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,10 wickets,Hamilton,"Jan 7-9, 2011",Test # 1990
+New Zealand vs Pakistan,New Zealand,Pakistan,drawn,,Wellington,"Jan 15-19, 2011",Test # 1991
+West Indies vs Pakistan,West Indies,Pakistan,West Indies,40 runs,Providence,"May 12-15, 2011",Test # 1992
+West Indies vs Pakistan,West Indies,Pakistan,Pakistan,196 runs,Basseterre,"May 20-24, 2011",Test # 1993
+England vs Sri Lanka,England,Sri Lanka,England,inns & 14 runs,Cardiff,"May 26-30, 2011",Test # 1994
+England vs Sri Lanka,England,Sri Lanka,drawn,,Lord's,"Jun 3-7, 2011",Test # 1995
+England vs Sri Lanka,England,Sri Lanka,drawn,,Southampton,"Jun 16-20, 2011",Test # 1996
+West Indies vs India,West Indies,India,India,63 runs,Kingston,"Jun 20-23, 2011",Test # 1997
+West Indies vs India,West Indies,India,drawn,,Bridgetown,"Jun 28-Jul 2, 2011",Test # 1998
+West Indies vs India,West Indies,India,drawn,,Roseau,"Jul 6-10, 2011",Test # 1999
+England vs India,England,India,England,196 runs,Lord's,"Jul 21-25, 2011",Test # 2000
+England vs India,England,India,England,319 runs,Nottingham,"Jul 29-Aug 1, 2011",Test # 2001
+Zimbabwe vs Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,130 runs,Harare,"Aug 4-8, 2011",Test # 2002
+England vs India,England,India,England,inns & 242 runs,Birmingham,"Aug 10-13, 2011",Test # 2003
+England vs India,England,India,England,inns & 8 runs,The Oval,"Aug 18-22, 2011",Test # 2004
+Sri Lanka vs Australia,Sri Lanka,Australia,Australia,125 runs,Galle,"Aug 31-Sep 3, 2011",Test # 2005
+Zimbabwe vs Pakistan,Zimbabwe,Pakistan,Pakistan,7 wickets,Bulawayo,"Sep 1-5, 2011",Test # 2006
+Sri Lanka vs Australia,Sri Lanka,Australia,drawn,,Pallekele,"Sep 8-12, 2011",Test # 2007
+Sri Lanka vs Australia,Sri Lanka,Australia,drawn,,Colombo (SSC),"Sep 16-20, 2011",Test # 2008
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Oct 18-22, 2011",Test # 2009
+Bangladesh vs West Indies,Bangladesh,West Indies,drawn,,Chattogram,"Oct 21-25, 2011",Test # 2010
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,9 wickets,Dubai (DSC),"Oct 26-29, 2011",Test # 2011
+Bangladesh vs West Indies,Bangladesh,West Indies,West Indies,229 runs,Mirpur,"Oct 29-Nov 2, 2011",Test # 2012
+Zimbabwe vs New Zealand,Zimbabwe,New Zealand,New Zealand,34 runs,Bulawayo,"Nov 1-5, 2011",Test # 2013
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,drawn,,Sharjah,"Nov 3-7, 2011",Test # 2014
+India vs West Indies,India,West Indies,India,5 wickets,Delhi,"Nov 6-9, 2011",Test # 2015
+South Africa vs Australia,South Africa,Australia,South Africa,8 wickets,Cape Town,"Nov 9-11, 2011",Test # 2016
+India vs West Indies,India,West Indies,India,inns & 15 runs,Eden Gardens,"Nov 14-17, 2011",Test # 2017
+South Africa vs Australia,South Africa,Australia,Australia,2 wickets,Johannesburg,"Nov 17-21, 2011",Test # 2018
+India vs West Indies,India,West Indies,drawn,,Wankhede,"Nov 22-26, 2011",Test # 2019
+Australia vs New Zealand,Australia,New Zealand,Australia,9 wickets,Brisbane,"Dec 1-4, 2011",Test # 2020
+Australia vs New Zealand,Australia,New Zealand,New Zealand,7 runs,Hobart,"Dec 9-12, 2011",Test # 2021
+Bangladesh vs Pakistan,Bangladesh,Pakistan,Pakistan,inns & 184 runs,Chattogram,"Dec 9-12, 2011",Test # 2022
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,inns & 81 runs,Centurion,"Dec 15-17, 2011",Test # 2023
+Bangladesh vs Pakistan,Bangladesh,Pakistan,Pakistan,7 wickets,Mirpur,"Dec 17-21, 2011",Test # 2024
+Australia vs India,Australia,India,Australia,122 runs,Melbourne,"Dec 26-29, 2011",Test # 2025
+South Africa vs Sri Lanka,South Africa,Sri Lanka,Sri Lanka,208 runs,Durban,"Dec 26-29, 2011",Test # 2026
+Australia vs India,Australia,India,Australia,inns & 68 runs,Sydney,"Jan 3-6, 2012",Test # 2027
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,10 wickets,Cape Town,"Jan 3-6, 2012",Test # 2028
+Australia vs India,Australia,India,Australia,inns & 37 runs,Perth,"Jan 13-15, 2012",Test # 2029
+England vs Pakistan,England,Pakistan,Pakistan,10 wickets,Dubai (DSC),"Jan 17-19, 2012",Test # 2030
+Australia vs India,Australia,India,Australia,298 runs,Adelaide,"Jan 24-28, 2012",Test # 2031
+England vs Pakistan,England,Pakistan,Pakistan,72 runs,Abu Dhabi,"Jan 25-28, 2012",Test # 2032
+New Zealand vs Zimbabwe,New Zealand,Zimbabwe,New Zealand,inns & 301 runs,Napier,"Jan 26-28, 2012",Test # 2033
+England vs Pakistan,England,Pakistan,Pakistan,71 runs,Dubai (DSC),"Feb 3-6, 2012",Test # 2034
+New Zealand vs South Africa,New Zealand,South Africa,drawn,,Dunedin,"Mar 7-11, 2012",Test # 2035
+New Zealand vs South Africa,New Zealand,South Africa,South Africa,9 wickets,Hamilton,"Mar 15-17, 2012",Test # 2036
+New Zealand vs South Africa,New Zealand,South Africa,drawn,,Wellington,"Mar 23-27, 2012",Test # 2037
+Sri Lanka vs England,Sri Lanka,England,Sri Lanka,75 runs,Galle,"Mar 26-29, 2012",Test # 2038
+Sri Lanka vs England,Sri Lanka,England,England,8 wickets,Colombo (PSS),"Apr 3-7, 2012",Test # 2039
+West Indies vs Australia,West Indies,Australia,Australia,3 wickets,Bridgetown,"Apr 7-11, 2012",Test # 2040
+West Indies vs Australia,West Indies,Australia,drawn,,Port of Spain,"Apr 15-19, 2012",Test # 2041
+West Indies vs Australia,West Indies,Australia,Australia,75 runs,Roseau,"Apr 23-27, 2012",Test # 2042
+England vs West Indies,England,West Indies,England,5 wickets,Lord's,"May 17-21, 2012",Test # 2043
+England vs West Indies,England,West Indies,England,9 wickets,Nottingham,"May 25-28, 2012",Test # 2044
+England vs West Indies,England,West Indies,drawn,,Birmingham,"Jun 7-11, 2012",Test # 2045
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Sri Lanka,209 runs,Galle,"Jun 22-25, 2012",Test # 2046
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,drawn,,Colombo (SSC),"Jun 30-Jul 4, 2012",Test # 2047
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,drawn,,Pallekele,"Jul 8-12, 2012",Test # 2048
+England vs South Africa,England,South Africa,South Africa,inns & 12 runs,The Oval,"Jul 19-23, 2012",Test # 2049
+West Indies vs New Zealand,West Indies,New Zealand,West Indies,9 wickets,North Sound,"Jul 25-29, 2012",Test # 2050
+England vs South Africa,England,South Africa,drawn,,Leeds,"Aug 2-6, 2012",Test # 2051
+West Indies vs New Zealand,West Indies,New Zealand,West Indies,5 wickets,Kingston,"Aug 2-5, 2012",Test # 2052
+England vs South Africa,England,South Africa,South Africa,51 runs,Lord's,"Aug 16-20, 2012",Test # 2053
+India vs New Zealand,India,New Zealand,India,inns & 115 runs,Hyderabad,"Aug 23-26, 2012",Test # 2054
+India vs New Zealand,India,New Zealand,India,5 wickets,Bengaluru,"Aug 31-Sep 3, 2012",Test # 2055
+Australia vs South Africa,Australia,South Africa,drawn,,Brisbane,"Nov 9-13, 2012",Test # 2056
+Bangladesh vs West Indies,Bangladesh,West Indies,West Indies,77 runs,Mirpur,"Nov 13-17, 2012",Test # 2057
+India vs England,India,England,India,9 wickets,Ahmedabad,"Nov 15-19, 2012",Test # 2058
+Sri Lanka vs New Zealand,Sri Lanka,New Zealand,Sri Lanka,10 wickets,Galle,"Nov 17-19, 2012",Test # 2059
+Bangladesh vs West Indies,Bangladesh,West Indies,West Indies,10 wickets,Khulna,"Nov 21-25, 2012",Test # 2060
+Australia vs South Africa,Australia,South Africa,drawn,,Adelaide,"Nov 22-26, 2012",Test # 2061
+India vs England,India,England,England,10 wickets,Wankhede,"Nov 23-26, 2012",Test # 2062
+Sri Lanka vs New Zealand,Sri Lanka,New Zealand,New Zealand,167 runs,Colombo (PSS),"Nov 25-29, 2012",Test # 2063
+Australia vs South Africa,Australia,South Africa,South Africa,309 runs,Perth,"Nov 30-Dec 3, 2012",Test # 2064
+India vs England,India,England,England,7 wickets,Eden Gardens,"Dec 5-9, 2012",Test # 2065
+India vs England,India,England,drawn,,Nagpur,"Dec 13-17, 2012",Test # 2066
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,137 runs,Hobart,"Dec 14-18, 2012",Test # 2067
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,inns & 201 runs,Melbourne,"Dec 26-28, 2012",Test # 2068
+South Africa vs New Zealand,South Africa,New Zealand,South Africa,inns & 27 runs,Cape Town,"Jan 2-4, 2013",Test # 2069
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,5 wickets,Sydney,"Jan 3-6, 2013",Test # 2070
+South Africa vs New Zealand,South Africa,New Zealand,South Africa,inns & 193 runs,Gqeberha,"Jan 11-14, 2013",Test # 2071
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,211 runs,Johannesburg,"Feb 1-4, 2013",Test # 2072
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,4 wickets,Cape Town,"Feb 14-17, 2013",Test # 2073
+India vs Australia,India,Australia,India,8 wickets,Chennai,"Feb 22-26, 2013",Test # 2074
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,inns & 18 runs,Centurion,"Feb 22-24, 2013",Test # 2075
+India vs Australia,India,Australia,India,inns & 135 runs,Hyderabad,"Mar 2-5, 2013",Test # 2076
+New Zealand vs England,New Zealand,England,drawn,,Dunedin,"Mar 6-10, 2013",Test # 2077
+Sri Lanka vs Bangladesh,Sri Lanka,Bangladesh,drawn,,Galle,"Mar 8-12, 2013",Test # 2078
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,9 wickets,Bridgetown,"Mar 12-14, 2013",Test # 2079
+New Zealand vs England,New Zealand,England,drawn,,Wellington,"Mar 14-18, 2013",Test # 2080
+India vs Australia,India,Australia,India,6 wickets,Mohali,"Mar 14-18, 2013",Test # 2081
+Sri Lanka vs Bangladesh,Sri Lanka,Bangladesh,Sri Lanka,7 wickets,Colombo (RPS),"Mar 16-19, 2013",Test # 2082
+West Indies vs Zimbabwe,West Indies,Zimbabwe,West Indies,inns & 65 runs,Roseau,"Mar 20-22, 2013",Test # 2083
+New Zealand vs England,New Zealand,England,drawn,,Auckland,"Mar 22-26, 2013",Test # 2084
+India vs Australia,India,Australia,India,6 wickets,Delhi,"Mar 22-24, 2013",Test # 2085
+Zimbabwe vs Bangladesh,Zimbabwe,Bangladesh,Zimbabwe,335 runs,Harare,"Apr 17-20, 2013",Test # 2086
+Zimbabwe vs Bangladesh,Zimbabwe,Bangladesh,Bangladesh,143 runs,Harare,"Apr 25-29, 2013",Test # 2087
+England vs New Zealand,England,New Zealand,England,170 runs,Lord's,"May 16-19, 2013",Test # 2088
+England vs New Zealand,England,New Zealand,England,247 runs,Leeds,"May 24-28, 2013",Test # 2089
+England vs Australia,England,Australia,England,14 runs,Nottingham,"Jul 10-14, 2013",Test # 2090
+England vs Australia,England,Australia,England,347 runs,Lord's,"Jul 18-21, 2013",Test # 2091
+England vs Australia,England,Australia,drawn,,Manchester,"Aug 1-5, 2013",Test # 2092
+England vs Australia,England,Australia,England,74 runs,Chester-le-Street,"Aug 9-12, 2013",Test # 2093
+England vs Australia,England,Australia,drawn,,The Oval,"Aug 21-25, 2013",Test # 2094
+Zimbabwe vs Pakistan,Zimbabwe,Pakistan,Pakistan,221 runs,Harare,"Sep 3-7, 2013",Test # 2095
+Zimbabwe vs Pakistan,Zimbabwe,Pakistan,Zimbabwe,24 runs,Harare,"Sep 10-14, 2013",Test # 2096
+Bangladesh vs New Zealand,Bangladesh,New Zealand,drawn,,Chattogram,"Oct 9-13, 2013",Test # 2097
+Pakistan vs South Africa,Pakistan,South Africa,Pakistan,7 wickets,Abu Dhabi,"Oct 14-17, 2013",Test # 2098
+Bangladesh vs New Zealand,Bangladesh,New Zealand,drawn,,Mirpur,"Oct 21-25, 2013",Test # 2099
+Pakistan vs South Africa,Pakistan,South Africa,South Africa,inns & 92 runs,Dubai (DSC),"Oct 23-26, 2013",Test # 2100
+India vs West Indies,India,West Indies,India,inns & 51 runs,Eden Gardens,"Nov 6-8, 2013",Test # 2101
+India vs West Indies,India,West Indies,India,inns & 126 runs,Wankhede,"Nov 14-16, 2013",Test # 2102
+Australia vs England,Australia,England,Australia,381 runs,Brisbane,"Nov 21-24, 2013",Test # 2103
+New Zealand vs West Indies,New Zealand,West Indies,drawn,,Dunedin,"Dec 3-7, 2013",Test # 2104
+Australia vs England,Australia,England,Australia,218 runs,Adelaide,"Dec 5-9, 2013",Test # 2105
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,inns & 73 runs,Wellington,"Dec 11-13, 2013",Test # 2106
+Australia vs England,Australia,England,Australia,150 runs,Perth,"Dec 13-17, 2013",Test # 2107
+South Africa vs India,South Africa,India,drawn,,Johannesburg,"Dec 18-22, 2013",Test # 2108
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,8 wickets,Hamilton,"Dec 19-22, 2013",Test # 2109
+Australia vs England,Australia,England,Australia,8 wickets,Melbourne,"Dec 26-29, 2013",Test # 2110
+South Africa vs India,South Africa,India,South Africa,10 wickets,Durban,"Dec 26-30, 2013",Test # 2111
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Dec 31, 2013 - Jan 4, 2014",Test # 2112
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,drawn,,Abu Dhabi,"Dec 31, 2013 - Jan 4, 2014",Test # 2112
+Australia vs England,Australia,England,Australia,281 runs,Sydney,"Jan 3-5, 2014",Test # 2113
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,9 wickets,Dubai (DSC),"Jan 8-12, 2014",Test # 2114
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,5 wickets,Sharjah,"Jan 16-20, 2014",Test # 2115
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka,inns & 248 runs,Mirpur,"Jan 27-30, 2014",Test # 2116
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,drawn,,Chattogram,"Feb 4-8, 2014",Test # 2117
+New Zealand vs India,New Zealand,India,New Zealand,40 runs,Auckland,"Feb 6-9, 2014",Test # 2118
+South Africa vs Australia,South Africa,Australia,Australia,281 runs,Centurion,"Feb 12-15, 2014",Test # 2119
+New Zealand vs India,New Zealand,India,drawn,,Wellington,"Feb 14-18, 2014",Test # 2120
+South Africa vs Australia,South Africa,Australia,South Africa,231 runs,Gqeberha,"Feb 20-23, 2014",Test # 2121
+South Africa vs Australia,South Africa,Australia,Australia,245 runs,Cape Town,"Mar 1-5, 2014",Test # 2122
+West Indies vs New Zealand,West Indies,New Zealand,New Zealand,186 runs,Kingston,"Jun 8-11, 2014",Test # 2123
+England vs Sri Lanka,England,Sri Lanka,drawn,,Lord's,"Jun 12-16, 2014",Test # 2124
+West Indies vs New Zealand,West Indies,New Zealand,West Indies,10 wickets,Port of Spain,"Jun 16-20, 2014",Test # 2125
+England vs Sri Lanka,England,Sri Lanka,Sri Lanka,100 runs,Leeds,"Jun 20-24, 2014",Test # 2126
+West Indies vs New Zealand,West Indies,New Zealand,New Zealand,53 runs,Bridgetown,"Jun 26-30, 2014",Test # 2127
+England vs India,England,India,drawn,,Nottingham,"Jul 9-13, 2014",Test # 2128
+Sri Lanka vs South Africa,Sri Lanka,South Africa,South Africa,153 runs,Galle,"Jul 16-20, 2014",Test # 2129
+England vs India,England,India,India,95 runs,Lord's,"Jul 17-21, 2014",Test # 2130
+Sri Lanka vs South Africa,Sri Lanka,South Africa,drawn,,Colombo (SSC),"Jul 24-28, 2014",Test # 2131
+England vs India,England,India,England,266 runs,Southampton,"Jul 27-31, 2014",Test # 2132
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Galle,"Aug 6-10, 2014",Test # 2133
+England vs India,England,India,England,inns & 54 runs,Manchester,"Aug 7-9, 2014",Test # 2134
+Zimbabwe vs South Africa,Zimbabwe,South Africa,South Africa,9 wickets,Harare,"Aug 9-12, 2014",Test # 2135
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Sri Lanka,105 runs,Colombo (SSC),"Aug 14-18, 2014",Test # 2136
+England vs India,England,India,England,inns & 244 runs,The Oval,"Aug 15-17, 2014",Test # 2137
+West Indies vs Bangladesh,West Indies,Bangladesh,West Indies,10 wickets,Kingstown,"Sep 5-9, 2014",Test # 2138
+West Indies vs Bangladesh,West Indies,Bangladesh,West Indies,296 runs,Gros Islet,"Sep 13-16, 2014",Test # 2139
+Australia vs Pakistan,Australia,Pakistan,Pakistan,221 runs,Dubai (DSC),"Oct 22-26, 2014",Test # 2140
+Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Bangladesh,3 wickets,Mirpur,"Oct 25-27, 2014",Test # 2141
+Australia vs Pakistan,Australia,Pakistan,Pakistan,356 runs,Abu Dhabi,"Oct 30-Nov 3, 2014",Test # 2142
+Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Bangladesh,162 runs,Khulna,"Nov 3-7, 2014",Test # 2143
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,248 runs,Abu Dhabi,"Nov 9-13, 2014",Test # 2144
+Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Bangladesh,186 runs,Chattogram,"Nov 12-16, 2014",Test # 2145
+New Zealand vs Pakistan,New Zealand,Pakistan,drawn,,Dubai (DSC),"Nov 17-21, 2014",Test # 2146
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,inns & 80 runs,Sharjah,"Nov 26-30, 2014",Test # 2147
+Australia vs India,Australia,India,Australia,48 runs,Adelaide,"Dec 9-13, 2014",Test # 2148
+Australia vs India,Australia,India,Australia,4 wickets,Brisbane,"Dec 17-20, 2014",Test # 2149
+South Africa vs West Indies,South Africa,West Indies,South Africa,inns & 220 runs,Centurion,"Dec 17-20, 2014",Test # 2150
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,8 wickets,Christchurch,"Dec 26-29, 2014",Test # 2151
+Australia vs India,Australia,India,drawn,,Melbourne,"Dec 26-30, 2014",Test # 2152
+South Africa vs West Indies,South Africa,West Indies,drawn,,Gqeberha,"Dec 26-30, 2014",Test # 2153
+South Africa vs West Indies,South Africa,West Indies,South Africa,8 wickets,Cape Town,"Jan 2-6, 2015",Test # 2154
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,193 runs,Wellington,"Jan 3-7, 2015",Test # 2155
+Australia vs India,Australia,India,drawn,,Sydney,"Jan 6-10, 2015",Test # 2156
+West Indies vs England,West Indies,England,drawn,,North Sound,"Apr 13-17, 2015",Test # 2157
+West Indies vs England,West Indies,England,England,9 wickets,St George's,"Apr 21-25, 2015",Test # 2158
+Bangladesh vs Pakistan,Bangladesh,Pakistan,drawn,,Khulna,"Apr 28-May 2, 2015",Test # 2159
+West Indies vs England,West Indies,England,West Indies,5 wickets,Bridgetown,"May 1-3, 2015",Test # 2160
+Bangladesh vs Pakistan,Bangladesh,Pakistan,Pakistan,328 runs,Mirpur,"May 6-9, 2015",Test # 2161
+England vs New Zealand,England,New Zealand,England,124 runs,Lord's,"May 21-25, 2015",Test # 2162
+England vs New Zealand,England,New Zealand,New Zealand,199 runs,Leeds,"May 29-Jun 2, 2015",Test # 2163
+West Indies vs Australia,West Indies,Australia,Australia,9 wickets,Roseau,"Jun 3-5, 2015",Test # 2164
+Bangladesh vs India,Bangladesh,India,drawn,,Fatullah,"Jun 10-14, 2015",Test # 2165
+West Indies vs Australia,West Indies,Australia,Australia,277 runs,Kingston,"Jun 11-14, 2015",Test # 2166
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Pakistan,10 wickets,Galle,"Jun 17-21, 2015",Test # 2167
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Sri Lanka,7 wickets,Colombo (PSS),"Jun 25-29, 2015",Test # 2168
+Sri Lanka vs Pakistan,Sri Lanka,Pakistan,Pakistan,7 wickets,Pallekele,"Jul 3-7, 2015",Test # 2169
+England vs Australia,England,Australia,England,169 runs,Cardiff,"Jul 8-11, 2015",Test # 2170
+England vs Australia,England,Australia,Australia,405 runs,Lord's,"Jul 16-19, 2015",Test # 2171
+Bangladesh vs South Africa,Bangladesh,South Africa,drawn,,Chattogram,"Jul 21-25, 2015",Test # 2172
+England vs Australia,England,Australia,England,8 wickets,Birmingham,"Jul 29-31, 2015",Test # 2173
+Bangladesh vs South Africa,Bangladesh,South Africa,drawn,,Mirpur,"Jul 30-Aug 3, 2015",Test # 2174
+England vs Australia,England,Australia,England,inns & 78 runs,Nottingham,"Aug 6-8, 2015",Test # 2175
+Sri Lanka vs India,Sri Lanka,India,Sri Lanka,63 runs,Galle,"Aug 12-15, 2015",Test # 2176
+Sri Lanka vs India,Sri Lanka,India,India,278 runs,Colombo (PSS),"Aug 20-24, 2015",Test # 2177
+England vs Australia,England,Australia,Australia,inns & 46 runs,The Oval,"Aug 20-23, 2015",Test # 2178
+Sri Lanka vs India,Sri Lanka,India,India,117 runs,Colombo (SSC),"Aug 28-Sep 1, 2015",Test # 2179
+England vs Pakistan,England,Pakistan,drawn,,Abu Dhabi,"Oct 13-17, 2015",Test # 2180
+Sri Lanka vs West Indies,Sri Lanka,West Indies,Sri Lanka,inns & 6 runs,Galle,"Oct 14-17, 2015",Test # 2181
+Sri Lanka vs West Indies,Sri Lanka,West Indies,Sri Lanka,72 runs,Colombo (PSS),"Oct 22-26, 2015",Test # 2182
+England vs Pakistan,England,Pakistan,Pakistan,178 runs,Dubai (DSC),"Oct 22-26, 2015",Test # 2183
+England vs Pakistan,England,Pakistan,Pakistan,127 runs,Sharjah,"Nov 1-5, 2015",Test # 2184
+Australia vs New Zealand,Australia,New Zealand,Australia,208 runs,Brisbane,"Nov 5-9, 2015",Test # 2185
+India vs South Africa,India,South Africa,India,108 runs,Mohali,"Nov 5-7, 2015",Test # 2186
+Australia vs New Zealand,Australia,New Zealand,drawn,,Perth,"Nov 13-17, 2015",Test # 2187
+India vs South Africa,India,South Africa,drawn,,Bengaluru,"Nov 14-18, 2015",Test # 2188
+India vs South Africa,India,South Africa,India,124 runs,Nagpur,"Nov 25-27, 2015",Test # 2189
+Australia vs New Zealand,Australia,New Zealand,Australia,3 wickets,Adelaide,"Nov 27-29, 2015",Test # 2190
+India vs South Africa,India,South Africa,India,337 runs,Delhi,"Dec 3-7, 2015",Test # 2191
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,122 runs,Dunedin,"Dec 10-14, 2015",Test # 2192
+Australia vs West Indies,Australia,West Indies,Australia,inns & 212 runs,Hobart,"Dec 10-12, 2015",Test # 2193
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,5 wickets,Hamilton,"Dec 18-21, 2015",Test # 2194
+Australia vs West Indies,Australia,West Indies,Australia,177 runs,Melbourne,"Dec 26-29, 2015",Test # 2195
+South Africa vs England,South Africa,England,England,241 runs,Durban,"Dec 26-30, 2015",Test # 2196
+South Africa vs England,South Africa,England,drawn,,Cape Town,"Jan 2-6, 2016",Test # 2197
+Australia vs West Indies,Australia,West Indies,drawn,,Sydney,"Jan 3-7, 2016",Test # 2198
+South Africa vs England,South Africa,England,England,7 wickets,Johannesburg,"Jan 14-16, 2016",Test # 2199
+South Africa vs England,South Africa,England,South Africa,280 runs,Centurion,"Jan 22-26, 2016",Test # 2200
+New Zealand vs Australia,New Zealand,Australia,Australia,inns & 52 runs,Wellington,"Feb 12-15, 2016",Test # 2201
+New Zealand vs Australia,New Zealand,Australia,Australia,7 wickets,Christchurch,"Feb 20-24, 2016",Test # 2202
+England vs Sri Lanka,England,Sri Lanka,England,inns & 88 runs,Leeds,"May 19-21, 2016",Test # 2203
+England vs Sri Lanka,England,Sri Lanka,England,9 wickets,Chester-le-Street,"May 27-30, 2016",Test # 2204
+England vs Sri Lanka,England,Sri Lanka,drawn,,Lord's,"Jun 9-13, 2016",Test # 2205
+England vs Pakistan,England,Pakistan,Pakistan,75 runs,Lord's,"Jul 14-17, 2016",Test # 2206
+West Indies vs India,West Indies,India,India,inns & 92 runs,North Sound,"Jul 21-24, 2016",Test # 2207
+England vs Pakistan,England,Pakistan,England,330 runs,Manchester,"Jul 22-25, 2016",Test # 2208
+Sri Lanka vs Australia,Sri Lanka,Australia,Sri Lanka,106 runs,Pallekele,"Jul 26-30, 2016",Test # 2209
+Zimbabwe vs New Zealand,Zimbabwe,New Zealand,New Zealand,inns & 117 runs,Bulawayo,"Jul 28-31, 2016",Test # 2210
+West Indies vs India,West Indies,India,drawn,,Kingston,"Jul 30-Aug 3, 2016",Test # 2211
+England vs Pakistan,England,Pakistan,England,141 runs,Birmingham,"Aug 3-7, 2016",Test # 2212
+Sri Lanka vs Australia,Sri Lanka,Australia,Sri Lanka,229 runs,Galle,"Aug 4-6, 2016",Test # 2213
+Zimbabwe vs New Zealand,Zimbabwe,New Zealand,New Zealand,254 runs,Bulawayo,"Aug 6-10, 2016",Test # 2214
+West Indies vs India,West Indies,India,India,237 runs,Gros Islet,"Aug 9-13, 2016",Test # 2215
+England vs Pakistan,England,Pakistan,Pakistan,10 wickets,The Oval,"Aug 11-14, 2016",Test # 2216
+Sri Lanka vs Australia,Sri Lanka,Australia,Sri Lanka,163 runs,Colombo (SSC),"Aug 13-17, 2016",Test # 2217
+West Indies vs India,West Indies,India,drawn,,Port of Spain,"Aug 18-22, 2016",Test # 2218
+South Africa vs New Zealand,South Africa,New Zealand,drawn,,Durban,"Aug 19-23, 2016",Test # 2219
+South Africa vs New Zealand,South Africa,New Zealand,South Africa,204 runs,Centurion,"Aug 27-30, 2016",Test # 2220
+India vs New Zealand,India,New Zealand,India,197 runs,Kanpur,"Sep 22-26, 2016",Test # 2221
+India vs New Zealand,India,New Zealand,India,178 runs,Eden Gardens,"Sep 30-Oct 3, 2016",Test # 2222
+India vs New Zealand,India,New Zealand,India,321 runs,Indore,"Oct 8-11, 2016",Test # 2223
+Pakistan vs West Indies,Pakistan,West Indies,Pakistan,56 runs,Dubai (DSC),"Oct 13-17, 2016",Test # 2224
+Bangladesh vs England,Bangladesh,England,England,22 runs,Chattogram,"Oct 20-24, 2016",Test # 2225
+Pakistan vs West Indies,Pakistan,West Indies,Pakistan,133 runs,Abu Dhabi,"Oct 21-25, 2016",Test # 2226
+Bangladesh vs England,Bangladesh,England,Bangladesh,108 runs,Mirpur,"Oct 28-30, 2016",Test # 2227
+Zimbabwe vs Sri Lanka,Zimbabwe,Sri Lanka,Sri Lanka,225 runs,Harare,"Oct 29-Nov 2, 2016",Test # 2228
+Pakistan vs West Indies,Pakistan,West Indies,West Indies,5 wickets,Sharjah,"Oct 30-Nov 3, 2016",Test # 2229
+Australia vs South Africa,Australia,South Africa,South Africa,177 runs,Perth,"Nov 3-7, 2016",Test # 2230
+Zimbabwe vs Sri Lanka,Zimbabwe,Sri Lanka,Sri Lanka,257 runs,Harare,"Nov 6-10, 2016",Test # 2231
+India vs England,India,England,drawn,,Rajkot,"Nov 9-13, 2016",Test # 2232
+Australia vs South Africa,Australia,South Africa,South Africa,inns & 80 runs,Hobart,"Nov 12-15, 2016",Test # 2233
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,8 wickets,Christchurch,"Nov 17-20, 2016",Test # 2234
+India vs England,India,England,India,246 runs,Visakhapatnam,"Nov 17-21, 2016",Test # 2235
+Australia vs South Africa,Australia,South Africa,Australia,7 wickets,Adelaide,"Nov 24-27, 2016",Test # 2236
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,138 runs,Hamilton,"Nov 25-29, 2016",Test # 2237
+India vs England,India,England,India,8 wickets,Mohali,"Nov 26-29, 2016",Test # 2238
+India vs England,India,England,India,inns & 36 runs,Wankhede,"Dec 8-12, 2016",Test # 2239
+Australia vs Pakistan,Australia,Pakistan,Australia,39 runs,Brisbane,"Dec 15-19, 2016",Test # 2240
+India vs England,India,England,India,inns & 75 runs,Chennai,"Dec 16-20, 2016",Test # 2241
+Australia vs Pakistan,Australia,Pakistan,Australia,inns & 18 runs,Melbourne,"Dec 26-30, 2016",Test # 2242
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,206 runs,Gqeberha,"Dec 26-30, 2016",Test # 2243
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,282 runs,Cape Town,"Jan 2-5, 2017",Test # 2244
+Australia vs Pakistan,Australia,Pakistan,Australia,220 runs,Sydney,"Jan 3-7, 2017",Test # 2245
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,7 wickets,Wellington,"Jan 12-16, 2017",Test # 2246
+South Africa vs Sri Lanka,South Africa,Sri Lanka,South Africa,inns & 118 runs,Johannesburg,"Jan 12-14, 2017",Test # 2247
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,9 wickets,Christchurch,"Jan 20-23, 2017",Test # 2248
+India vs Bangladesh,India,Bangladesh,India,208 runs,Hyderabad,"Feb 9-13, 2017",Test # 2249
+India vs Australia,India,Australia,Australia,333 runs,Pune,"Feb 23-25, 2017",Test # 2250
+India vs Australia,India,Australia,India,75 runs,Bengaluru,"Mar 4-7, 2017",Test # 2251
+Sri Lanka vs Bangladesh,Sri Lanka,Bangladesh,Sri Lanka,259 runs,Galle,"Mar 7-11, 2017",Test # 2252
+New Zealand vs South Africa,New Zealand,South Africa,drawn,,Dunedin,"Mar 8-12, 2017",Test # 2253
+Sri Lanka vs Bangladesh,Sri Lanka,Bangladesh,Bangladesh,4 wickets,Colombo (PSS),"Mar 15-19, 2017",Test # 2254
+New Zealand vs South Africa,New Zealand,South Africa,South Africa,8 wickets,Wellington,"Mar 16-18, 2017",Test # 2255
+India vs Australia,India,Australia,drawn,,Ranchi,"Mar 16-20, 2017",Test # 2256
+New Zealand vs South Africa,New Zealand,South Africa,drawn,,Hamilton,"Mar 25-29, 2017",Test # 2257
+India vs Australia,India,Australia,India,8 wickets,Dharamsala,"Mar 25-28, 2017",Test # 2258
+West Indies vs Pakistan,West Indies,Pakistan,Pakistan,7 wickets,Kingston,"Apr 21-25, 2017",Test # 2259
+West Indies vs Pakistan,West Indies,Pakistan,West Indies,106 runs,Bridgetown,"Apr 30-May 4, 2017",Test # 2260
+West Indies vs Pakistan,West Indies,Pakistan,Pakistan,101 runs,Roseau,"May 10-14, 2017",Test # 2261
+England vs South Africa,England,South Africa,England,211 runs,Lord's,"Jul 6-9, 2017",Test # 2262
+Sri Lanka vs Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,4 wickets,Colombo (RPS),"Jul 14-18, 2017",Test # 2263
+England vs South Africa,England,South Africa,South Africa,340 runs,Nottingham,"Jul 14-17, 2017",Test # 2264
+Sri Lanka vs India,Sri Lanka,India,India,304 runs,Galle,"Jul 26-29, 2017",Test # 2265
+England vs South Africa,England,South Africa,England,239 runs,The Oval,"Jul 27-31, 2017",Test # 2266
+Sri Lanka vs India,Sri Lanka,India,India,inns & 53 runs,Colombo (SSC),"Aug 3-6, 2017",Test # 2267
+England vs South Africa,England,South Africa,England,177 runs,Manchester,"Aug 4-7, 2017",Test # 2268
+Sri Lanka vs India,Sri Lanka,India,India,inns & 171 runs,Pallekele,"Aug 12-14, 2017",Test # 2269
+England vs West Indies,England,West Indies,England,inns & 209 runs,Birmingham,"Aug 17-19, 2017",Test # 2270
+England vs West Indies,England,West Indies,West Indies,5 wickets,Leeds,"Aug 25-29, 2017",Test # 2271
+Bangladesh vs Australia,Bangladesh,Australia,Bangladesh,20 runs,Mirpur,"Aug 27-30, 2017",Test # 2272
+Bangladesh vs Australia,Bangladesh,Australia,Australia,7 wickets,Chattogram,"Sep 4-7, 2017",Test # 2273
+England vs West Indies,England,West Indies,England,9 wickets,Lord's,"Sep 7-9, 2017",Test # 2274
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,21 runs,Abu Dhabi,"Sep 28-Oct 2, 2017",Test # 2275
+South Africa vs Bangladesh,South Africa,Bangladesh,South Africa,333 runs,Potchefstroom,"Sep 28-Oct 2, 2017",Test # 2276
+South Africa vs Bangladesh,South Africa,Bangladesh,South Africa,inns & 254 runs,Bloemfontein,"Oct 6-8, 2017",Test # 2277
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Sri Lanka,68 runs,Dubai (DSC),"Oct 6-10, 2017",Test # 2278
+Zimbabwe vs West Indies,Zimbabwe,West Indies,West Indies,117 runs,Bulawayo,"Oct 21-24, 2017",Test # 2279
+Zimbabwe vs West Indies,Zimbabwe,West Indies,drawn,,Bulawayo,"Oct 29-Nov 2, 2017",Test # 2280
+India vs Sri Lanka,India,Sri Lanka,drawn,,Eden Gardens,"Nov 16-20, 2017",Test # 2281
+Australia vs England,Australia,England,Australia,10 wickets,Brisbane,"Nov 23-27, 2017",Test # 2282
+India vs Sri Lanka,India,Sri Lanka,India,inns & 239 runs,Nagpur,"Nov 24-27, 2017",Test # 2283
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,inns & 67 runs,Wellington,"Dec 1-4, 2017",Test # 2284
+Australia vs England,Australia,England,Australia,120 runs,Adelaide,"Dec 2-6, 2017",Test # 2285
+India vs Sri Lanka,India,Sri Lanka,drawn,,Delhi,"Dec 2-6, 2017",Test # 2286
+New Zealand vs West Indies,New Zealand,West Indies,New Zealand,240 runs,Hamilton,"Dec 9-12, 2017",Test # 2287
+Australia vs England,Australia,England,Australia,inns & 41 runs,Perth,"Dec 14-18, 2017",Test # 2288
+Australia vs England,Australia,England,drawn,,Melbourne,"Dec 26-30, 2017",Test # 2289
+South Africa vs Zimbabwe,South Africa,Zimbabwe,South Africa,inns & 120 runs,Gqeberha,"Dec 26-27, 2017",Test # 2290
+Australia vs England,Australia,England,Australia,inns & 123 runs,Sydney,"Jan 4-8, 2018",Test # 2291
+South Africa vs India,South Africa,India,South Africa,72 runs,Cape Town,"Jan 5-8, 2018",Test # 2292
+South Africa vs India,South Africa,India,South Africa,135 runs,Centurion,"Jan 13-17, 2018",Test # 2293
+South Africa vs India,South Africa,India,India,63 runs,Johannesburg,"Jan 24-27, 2018",Test # 2294
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,drawn,,Chattogram,"Jan 31-Feb 4, 2018",Test # 2295
+Bangladesh vs Sri Lanka,Bangladesh,Sri Lanka,Sri Lanka,215 runs,Mirpur,"Feb 8-10, 2018",Test # 2296
+South Africa vs Australia,South Africa,Australia,Australia,118 runs,Durban,"Mar 1-5, 2018",Test # 2297
+South Africa vs Australia,South Africa,Australia,South Africa,6 wickets,Gqeberha,"Mar 9-12, 2018",Test # 2298
+New Zealand vs England,New Zealand,England,New Zealand,inns & 49 runs,Auckland,"Mar 22-26, 2018",Test # 2299
+South Africa vs Australia,South Africa,Australia,South Africa,322 runs,Cape Town,"Mar 22-25, 2018",Test # 2300
+New Zealand vs England,New Zealand,England,drawn,,Christchurch,"Mar 30-Apr 3, 2018",Test # 2301
+South Africa vs Australia,South Africa,Australia,South Africa,492 runs,Johannesburg,"Mar 30-Apr 3, 2018",Test # 2302
+Ireland vs Pakistan,Ireland,Pakistan,Pakistan,5 wickets,Dublin (Malahide),"May 11-15, 2018",Test # 2303
+England vs Pakistan,England,Pakistan,Pakistan,9 wickets,Lord's,"May 24-27, 2018",Test # 2304
+England vs Pakistan,England,Pakistan,England,inns & 55 runs,Leeds,"Jun 1-3, 2018",Test # 2305
+West Indies vs Sri Lanka,West Indies,Sri Lanka,West Indies,226 runs,Port of Spain,"Jun 6-10, 2018",Test # 2306
+India vs Afghanistan,India,Afghanistan,India,inns & 262 runs,Bengaluru,"Jun 14-15, 2018",Test # 2307
+West Indies vs Sri Lanka,West Indies,Sri Lanka,drawn,,Gros Islet,"Jun 14-18, 2018",Test # 2308
+West Indies vs Sri Lanka,West Indies,Sri Lanka,Sri Lanka,4 wickets,Bridgetown,"Jun 23-26, 2018",Test # 2309
+West Indies vs Bangladesh,West Indies,Bangladesh,West Indies,inns & 219 runs,North Sound,"Jul 4-6, 2018",Test # 2310
+Sri Lanka vs South Africa,Sri Lanka,South Africa,Sri Lanka,278 runs,Galle,"Jul 12-14, 2018",Test # 2311
+West Indies vs Bangladesh,West Indies,Bangladesh,West Indies,166 runs,Kingston,"Jul 12-14, 2018",Test # 2312
+Sri Lanka vs South Africa,Sri Lanka,South Africa,Sri Lanka,199 runs,Colombo (SSC),"Jul 20-23, 2018",Test # 2313
+England vs India,England,India,England,31 runs,Birmingham,"Aug 1-4, 2018",Test # 2314
+England vs India,England,India,England,inns & 159 runs,Lord's,"Aug 9-12, 2018",Test # 2315
+England vs India,England,India,India,203 runs,Nottingham,"Aug 18-22, 2018",Test # 2316
+England vs India,England,India,England,60 runs,Southampton,"Aug 30-Sep 2, 2018",Test # 2317
+England vs India,England,India,England,118 runs,The Oval,"Sep 7-11, 2018",Test # 2318
+India vs West Indies,India,West Indies,India,inns & 272 runs,Rajkot,"Oct 4-6, 2018",Test # 2319
+Australia vs Pakistan,Australia,Pakistan,drawn,,Dubai (DSC),"Oct 7-11, 2018",Test # 2320
+India vs West Indies,India,West Indies,India,10 wickets,Hyderabad,"Oct 12-14, 2018",Test # 2321
+Australia vs Pakistan,Australia,Pakistan,Pakistan,373 runs,Abu Dhabi,"Oct 16-19, 2018",Test # 2322
+Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Zimbabwe,151 runs,Sylhet,"Nov 3-6, 2018",Test # 2323
+Sri Lanka vs England,Sri Lanka,England,England,211 runs,Galle,"Nov 6-9, 2018",Test # 2324
+Bangladesh vs Zimbabwe,Bangladesh,Zimbabwe,Bangladesh,218 runs,Mirpur,"Nov 11-15, 2018",Test # 2325
+Sri Lanka vs England,Sri Lanka,England,England,57 runs,Pallekele,"Nov 14-18, 2018",Test # 2326
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,4 runs,Abu Dhabi,"Nov 16-19, 2018",Test # 2327
+Bangladesh vs West Indies,Bangladesh,West Indies,Bangladesh,64 runs,Chattogram,"Nov 22-24, 2018",Test # 2328
+Sri Lanka vs England,Sri Lanka,England,England,42 runs,Colombo (SSC),"Nov 23-26, 2018",Test # 2329
+New Zealand vs Pakistan,New Zealand,Pakistan,Pakistan,inns & 16 runs,Dubai (DSC),"Nov 24-27, 2018",Test # 2330
+Bangladesh vs West Indies,Bangladesh,West Indies,Bangladesh,inns & 184 runs,Mirpur,"Nov 30-Dec 2, 2018",Test # 2331
+New Zealand vs Pakistan,New Zealand,Pakistan,New Zealand,123 runs,Abu Dhabi,"Dec 3-7, 2018",Test # 2332
+Australia vs India,Australia,India,India,31 runs,Adelaide,"Dec 6-10, 2018",Test # 2333
+Australia vs India,Australia,India,Australia,146 runs,Perth,"Dec 14-18, 2018",Test # 2334
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,drawn,,Wellington,"Dec 15-19, 2018",Test # 2335
+New Zealand vs Sri Lanka,New Zealand,Sri Lanka,New Zealand,423 runs,Christchurch,"Dec 26-30, 2018",Test # 2336
+Australia vs India,Australia,India,India,137 runs,Melbourne,"Dec 26-30, 2018",Test # 2337
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,6 wickets,Centurion,"Dec 26-28, 2018",Test # 2338
+Australia vs India,Australia,India,drawn,,Sydney,"Jan 3-7, 2019",Test # 2339
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,9 wickets,Cape Town,"Jan 3-6, 2019",Test # 2340
+South Africa vs Pakistan,South Africa,Pakistan,South Africa,107 runs,Johannesburg,"Jan 11-14, 2019",Test # 2341
+West Indies vs England,West Indies,England,West Indies,381 runs,Bridgetown,"Jan 23-26, 2019",Test # 2342
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,inns & 40 runs,Brisbane,"Jan 24-26, 2019",Test # 2343
+West Indies vs England,West Indies,England,West Indies,10 wickets,North Sound,"Jan 31-Feb 2, 2019",Test # 2344
+Australia vs Sri Lanka,Australia,Sri Lanka,Australia,366 runs,Canberra,"Feb 1-4, 2019",Test # 2345
+West Indies vs England,West Indies,England,England,232 runs,Gros Islet,"Feb 9-12, 2019",Test # 2346
+South Africa vs Sri Lanka,South Africa,Sri Lanka,Sri Lanka,1 wicket,Durban,"Feb 13-16, 2019",Test # 2347
+South Africa vs Sri Lanka,South Africa,Sri Lanka,Sri Lanka,8 wickets,Gqeberha,"Feb 21-23, 2019",Test # 2348
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,inns & 52 runs,Hamilton,"Feb 28-Mar 3, 2019",Test # 2349
+New Zealand vs Bangladesh,New Zealand,Bangladesh,New Zealand,inns & 12 runs,Wellington,"Mar 8-12, 2019",Test # 2350
+Afghanistan vs Ireland,Afghanistan,Ireland,Afghanistan,7 wickets,Dehradun,"Mar 15-18, 2019",Test # 2351
+England vs Ireland,England,Ireland,England,143 runs,Lord's,"Jul 24-26, 2019",Test # 2352
+England vs Australia,England,Australia,Australia,251 runs,Birmingham,"Aug 1-5, 2019",Test # 2353
+Sri Lanka vs New Zealand,Sri Lanka,New Zealand,Sri Lanka,6 wickets,Galle,"Aug 14-18, 2019",Test # 2354
+England vs Australia,England,Australia,drawn,,Lord's,"Aug 14-18, 2019",Test # 2355
+Sri Lanka vs New Zealand,Sri Lanka,New Zealand,New Zealand,inns & 65 runs,Colombo (PSS),"Aug 22-26, 2019",Test # 2356
+England vs Australia,England,Australia,England,1 wicket,Leeds,"Aug 22-25, 2019",Test # 2357
+West Indies vs India,West Indies,India,India,318 runs,North Sound,"Aug 22-25, 2019",Test # 2358
+West Indies vs India,West Indies,India,India,257 runs,Kingston,"Aug 30-Sep 2, 2019",Test # 2359
+England vs Australia,England,Australia,Australia,185 runs,Manchester,"Sep 4-8, 2019",Test # 2360
+Bangladesh vs Afghanistan,Bangladesh,Afghanistan,Afghanistan,224 runs,Chattogram,"Sep 5-9, 2019",Test # 2361
+England vs Australia,England,Australia,England,135 runs,The Oval,"Sep 12-15, 2019",Test # 2362
+India vs South Africa,India,South Africa,India,203 runs,Visakhapatnam,"Oct 2-6, 2019",Test # 2363
+India vs South Africa,India,South Africa,India,inns & 137 runs,Pune,"Oct 10-13, 2019",Test # 2364
+India vs South Africa,India,South Africa,India,inns & 202 runs,Ranchi,"Oct 19-22, 2019",Test # 2365
+India vs Bangladesh,India,Bangladesh,India,inns & 130 runs,Indore,"Nov 14-16, 2019",Test # 2366
+New Zealand vs England,New Zealand,England,New Zealand,inns & 65 runs,Mount Maunganui,"Nov 21-25, 2019",Test # 2367
+Australia vs Pakistan,Australia,Pakistan,Australia,inns & 5 runs,Brisbane,"Nov 21-24, 2019",Test # 2368
+India vs Bangladesh,India,Bangladesh,India,inns & 46 runs,Eden Gardens,"Nov 22-24, 2019",Test # 2369
+Afghanistan vs West Indies,Afghanistan,West Indies,West Indies,9 wickets,Lucknow,"Nov 27-29, 2019",Test # 2370
+New Zealand vs England,New Zealand,England,drawn,,Hamilton,"Nov 29-Dec 3, 2019",Test # 2371
+Australia vs Pakistan,Australia,Pakistan,Australia,inns & 48 runs,Adelaide,"Nov 29-Dec 2, 2019",Test # 2372
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,drawn,,Rawalpindi,"Dec 11-15, 2019",Test # 2373
+Australia vs New Zealand,Australia,New Zealand,Australia,296 runs,Perth,"Dec 12-15, 2019",Test # 2374
+Pakistan vs Sri Lanka,Pakistan,Sri Lanka,Pakistan,263 runs,Karachi,"Dec 19-23, 2019",Test # 2375
+Australia vs New Zealand,Australia,New Zealand,Australia,247 runs,Melbourne,"Dec 26-29, 2019",Test # 2376
+South Africa vs England,South Africa,England,South Africa,107 runs,Centurion,"Dec 26-29, 2019",Test # 2377
